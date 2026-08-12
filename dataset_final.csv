@@ -1,0 +1,1021 @@
+Company,TypeName,Inches,Ram,Gpu,OpSys,Weight,ScreenType,PPI,SSD_GB,Cpu_Brand,Cpu_Family,Cpu_Clockspeed,target
+Acer,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.6,IPS Panel,165.63,256,Intel,Core i7,2.5,789.01
+Other,Gaming,14.0,16,Nvidia GeForce GTX 1060,Windows,1.95,Standard,157.35,512,Intel,Core i7,2.8,2899.0
+Lenovo,2 in 1 Convertible,15.6,4,Intel HD Graphics 520,Windows,2.1,IPS Panel,141.21,256,Intel,Core i5,2.3,867.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M430,Linux,2.2,Standard,141.21,0,Intel,Core i7,2.7,599.9
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.86,Standard,141.21,0,Intel,Core i3,2.0,469.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,0,Intel,Core i5,2.3,540.0
+Other,Notebook,14.0,2,Intel HD Graphics,Windows,1.4,Standard,157.35,0,Intel,Atom,1.44,239.0
+Lenovo,2 in 1 Convertible,14.0,4,Intel HD Graphics 620,Windows,1.74,IPS Panel,157.35,256,Intel,Core i3,2.4,629.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1050 Ti,Windows,2.7,Standard,127.34,128,Intel,Core i7,2.8,1348.48
+Acer,Notebook,14.0,4,Intel HD Graphics 405,Windows,1.6,Standard,111.94,0,Intel,Pentium Quad Core,1.6,349.0
+Asus,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.5,Standard,111.94,0,Intel,Celeron Dual Core,1.1,278.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 500,Windows,2.1,Standard,111.94,0,Intel,Celeron Dual Core,1.1,299.0
+Dell,Notebook,15.6,16,AMD Radeon R7 M445,Windows,2.32,Standard,141.21,0,Intel,Core i7,2.7,989.99
+Lenovo,Notebook,14.0,16,Intel HD Graphics 520,Windows,1.1,IPS Panel,209.8,256,Intel,Core i7,2.6,2620.0
+HP,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,3.35,IPS Panel,127.34,128,Intel,Core i7,2.8,1191.0
+Lenovo,2 in 1 Convertible,13.3,16,Intel Iris Graphics 540,Windows,1.3,IPS Panel,276.05,1024,Intel,Core i7,2.2,1799.0
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,1.93,Standard,141.21,256,Intel,Core i7,2.8,1369.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.5,IPS Panel,141.21,256,Intel,Core i5,2.5,829.0
+Lenovo,Notebook,17.3,8,Intel HD Graphics 620,No OS,2.8,Standard,106.11,0,Intel,Core i5,2.5,539.0
+Lenovo,Notebook,11.6,2,Intel HD Graphics 500,Windows,1.15,Standard,135.09,0,Intel,Celeron Dual Core,1.1,304.45
+Dell,Ultrabook,13.3,16,Intel HD Graphics 620,Windows,1.2,Standard,276.05,1024,Intel,Core i7,2.7,2254.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 970M,Windows,3.21,Standard,282.42,256,Intel,Core i7,2.6,1329.0
+Dell,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.26,Standard,135.09,0,Intel,Celeron Dual Core,1.6,295.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.3,Standard,141.21,256,Intel,Core i5,2.5,830.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.95,Standard,100.45,0,Intel,Core i5,2.3,729.9
+Lenovo,Notebook,15.6,8,AMD R17M-M1-70,Windows,1.9,Standard,141.21,128,Intel,Core i5,2.5,813.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.3,Standard,141.21,256,Intel,Core i5,2.3,1349.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.04,Standard,141.21,0,Intel,Core i3,2.4,685.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 630,Windows,1.95,IPS Panel,141.21,256,Intel,Core i7,2.7,1097.0
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,3.0,Standard,127.34,0,Intel,Core i7,2.8,1039.0
+Dell,Ultrabook,13.3,16,Intel Iris Plus Graphics 640,Windows,1.29,Standard,276.05,512,Intel,Core i7,2.5,2240.0
+Asus,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,2.2,IPS Panel,141.21,128,Intel,Core i7,2.8,1449.0
+HP,Notebook,15.6,8,AMD Radeon R7 Graphics,Windows,2.04,Standard,100.45,0,AMD,A12-Series,2.5,629.0
+HP,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.48,Standard,111.94,256,Intel,Core i5,2.4,1099.99
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.9,Standard,141.21,0,Intel,Core i5,2.6,935.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.3,IPS Panel,141.21,256,Intel,Core i5,2.5,1011.99
+Toshiba,Notebook,15.6,16,Nvidia GeForce 930M,Windows,2.4,IPS Panel,141.21,256,Intel,Core i7,2.5,1425.0
+HP,Ultrabook,12.5,8,Intel HD Graphics 520,Windows,1.26,Standard,125.37,256,Intel,Core i5,2.4,1895.0
+Acer,Notebook,15.6,2,Intel HD Graphics,Chrome OS,2.19,Standard,100.45,16,Intel,Celeron Dual Core,1.5,199.0
+Acer,Notebook,15.6,12,Intel HD Graphics 620,Windows,2.15,IPS Panel,141.21,0,Intel,Core i7,2.7,659.0
+Lenovo,Notebook,15.6,4,AMD Radeon R2 Graphics,Windows,2.2,Standard,100.45,0,AMD,E-Series,2.2,299.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,128,Intel,Core i3,2.0,429.0
+Asus,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.1,Standard,165.63,1024,Intel,Core i7,1.8,1499.0
+Asus,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.0,Standard,141.21,256,Intel,Core i3,2.0,415.0
+Dell,Ultrabook,13.3,16,Intel HD Graphics 620,Windows,1.2,Standard,276.05,512,Intel,Core i7,2.7,2680.0
+Acer,Notebook,15.6,4,AMD Radeon R5,Windows,2.1,Standard,100.45,128,AMD,A9-Series,3.0,426.0
+Lenovo,Gaming,15.6,4,Nvidia GeForce GTX 1050,Windows,2.4,IPS Panel,141.21,0,Intel,Core i7,2.8,999.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 540,Windows,1.3,IPS Panel,276.05,256,Intel,Core i5,1.8,1199.0
+HP,Notebook,15.6,8,Intel HD Graphics 405,Windows,2.04,Standard,100.45,0,Intel,Pentium Quad Core,1.6,389.0
+Dell,Notebook,15.6,16,Intel HD Graphics 620,Windows,1.93,Standard,141.21,512,Intel,Core i5,2.6,1426.66
+Dell,Ultrabook,13.3,8,Intel HD Graphics 520,Linux,1.23,Standard,276.05,256,Intel,Core i5,2.4,1099.0
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 1050,Windows,2.0,Standard,141.21,256,Intel,Core i7,2.8,1820.0
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.48,Standard,220.84,256,Intel,Core i7,2.6,1799.0
+Toshiba,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.05,Standard,165.63,256,Intel,Core i5,2.5,1475.0
+HP,2 in 1 Convertible,11.6,8,Intel HD Graphics 500,Chrome OS,1.4,Standard,135.09,0,Intel,Celeron Dual Core,1.1,495.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.25,Standard,100.45,0,Intel,Core i5,2.5,599.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Linux,2.3,Standard,141.21,256,Intel,Core i5,2.5,598.9
+Dell,2 in 1 Convertible,13.3,8,Intel HD Graphics 615,Windows,1.24,Standard,276.05,512,Intel,Core i7,1.3,2013.1
+Lenovo,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,2.2,Standard,141.21,128,AMD,A6-Series,2.5,399.0
+HP,Notebook,17.3,8,Intel UHD Graphics 620,Windows,2.5,Standard,127.34,256,Intel,Core i5,1.6,928.0
+Asus,Notebook,15.6,4,Nvidia GeForce GTX 950M,No OS,2.45,Standard,100.45,0,Intel,Core i5,2.3,579.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.54,Standard,209.8,256,Intel,Core i7,2.5,2198.19
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 960,Windows,3.31,IPS Panel,141.21,512,Intel,Core i7,2.6,1305.0
+Asus,2 in 1 Convertible,13.3,6,Intel HD Graphics 620,Windows,1.5,Standard,165.63,0,Intel,Core i5,2.5,639.01
+Dell,Notebook,17.3,8,AMD Radeon 530,Windows,2.8,Standard,127.34,128,Intel,Core i7,1.8,1142.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.37,IPS Panel,165.63,512,Intel,Core i7,2.7,2025.0
+Lenovo,Notebook,15.6,32,Nvidia Quadro M2200M,Windows,2.5,IPS Panel,282.42,1024,Intel,Xeon,3.1,4899.0
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,2.1,Standard,141.21,128,Intel,Core i3,2.0,499.0
+Dell,Notebook,15.6,4,AMD Radeon 530,Windows,2.2,Standard,141.21,0,Intel,Core i5,1.6,776.0
+Lenovo,Notebook,15.6,4,Nvidia GeForce 920MX,No OS,2.2,Standard,141.21,0,Intel,Core i5,2.5,499.0
+HP,Notebook,17.3,8,Intel HD Graphics 520,Windows,2.54,Standard,106.11,0,Intel,Core i3,2.0,489.0
+Toshiba,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.47,IPS Panel,157.35,256,Intel,Core i7,2.6,1725.0
+Asus,Notebook,15.6,4,Intel HD Graphics 620,Linux,2.0,Standard,141.21,256,Intel,Core i5,2.5,559.0
+Lenovo,Notebook,14.0,8,AMD Radeon RX 550,Windows,1.75,IPS Panel,157.35,256,Intel,Core i5,1.6,1116.02
+Dell,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.29,Standard,165.63,256,Intel,Core i5,2.5,1499.0
+HP,Notebook,13.3,4,Intel UHD Graphics 620,Windows,1.49,IPS Panel,165.63,128,Intel,Core i5,1.6,726.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.02,Standard,141.21,0,Intel,Core i5,1.6,759.0
+HP,Notebook,13.3,4,Intel HD Graphics 620,Windows,1.32,IPS Panel,165.63,256,Intel,Core i5,2.5,699.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.54,Standard,157.35,512,Intel,Core i7,2.5,1870.0
+Lenovo,Gaming,15.6,16,AMD Radeon R9 M385,Windows,2.5,IPS Panel,141.21,512,AMD,FX,2.1,999.0
+Dell,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,4.42,IPS Panel,127.34,256,Intel,Core i7,2.8,2456.34
+HP,Ultrabook,15.6,8,Intel HD Graphics 620,Windows,1.84,Standard,141.21,512,Intel,Core i7,2.7,1389.0
+Toshiba,Notebook,15.6,8,Nvidia GeForce 930M,Windows,2.2,Standard,100.45,0,Intel,Core i7,2.5,812.0
+HP,Notebook,15.6,8,Intel UHD Graphics 620,Windows,2.1,IPS Panel,100.45,0,Intel,Core i7,1.8,902.0
+Dell,Notebook,15.6,16,Nvidia GeForce GTX 1050,Windows,2.06,Standard,282.42,512,Intel,Core i7,2.8,2027.42
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.58,IPS Panel,117.83,256,Intel,Core i5,2.5,836.6
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.18,Standard,100.45,0,Intel,Core i3,2.4,586.6
+Lenovo,Ultrabook,14.0,8,Nvidia GeForce GT 940MX,Windows,1.7,IPS Panel,209.8,512,Intel,Core i7,2.8,1943.0
+Lenovo,2 in 1 Convertible,10.1,4,Intel HD Graphics 400,Android,0.69,IPS Panel,224.17,0,Intel,Atom,1.44,549.0
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.93,Standard,100.45,0,Intel,Core i5,2.6,959.0
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1060,Windows,2.7,IPS Panel,127.34,256,Intel,Core i7,2.8,1599.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1060,Windows,2.7,Standard,127.34,128,Intel,Core i7,2.8,1409.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.95,IPS Panel,141.21,256,Intel,Core i5,2.5,1390.0
+Dell,Notebook,15.6,4,Intel HD Graphics,Linux,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.6,324.0
+HP,2 in 1 Convertible,11.6,4,Intel HD Graphics 500,Chrome OS,1.4,Standard,135.09,0,Intel,Celeron Dual Core,1.1,615.0
+Dell,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,4.42,IPS Panel,127.34,256,Intel,Core i7,2.8,2699.0
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.4,Standard,100.45,0,Intel,Core i3,2.0,450.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.9,Standard,141.21,256,Intel,Core i5,2.8,1377.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M430,Linux,2.2,Standard,141.21,256,Intel,Core i7,2.7,749.01
+HP,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.34,IPS Panel,276.05,256,Intel,Core i7,2.7,1145.0
+Dell,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.56,Standard,157.35,256,Intel,Core i5,2.4,1229.0
+Lenovo,Notebook,17.3,4,Nvidia GeForce 920MX,Windows,2.79,Standard,106.11,0,Intel,Core i5,2.5,589.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,0,Intel,Core i3,2.0,489.9
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,2.5,IPS Panel,141.21,128,Intel,Core i7,2.8,1249.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce 920MX,No OS,2.2,Standard,141.21,0,Intel,Core i7,2.7,685.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.85,Standard,141.21,128,Intel,Core i3,2.0,403.5
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.1,Standard,141.21,256,Intel,Core i5,1.6,879.0
+Other,Notebook,15.6,4,Intel HD Graphics,Windows,1.89,Standard,141.21,0,Intel,Atom,1.44,244.99
+Asus,Notebook,17.3,8,Nvidia GeForce GTX 950M,No OS,2.69,Standard,127.34,128,Intel,Core i7,2.7,889.0
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.28,Standard,165.63,256,Intel,Core i7,2.8,2559.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 500,No OS,1.9,Standard,100.45,0,Intel,Celeron Dual Core,1.1,252.36
+Lenovo,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.1,IPS Panel,165.63,256,Intel,Core i5,2.5,999.0
+Dell,Notebook,15.6,4,Intel HD Graphics,Windows,2.25,Standard,141.21,0,Intel,Core i5,2.5,559.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.18,Standard,100.45,0,Intel,Core i5,2.5,521.86
+Asus,Notebook,15.6,4,Intel HD Graphics,Windows,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.6,369.0
+Asus,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.0,Standard,100.45,0,Intel,Core i3,2.4,435.0
+HP,Notebook,15.6,6,AMD Radeon R7 M440,Windows,2.04,Standard,141.21,0,AMD,A9-Series,2.9,549.99
+Asus,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.37,Standard,141.21,0,Intel,Core i5,2.5,749.0
+Apple,Ultrabook,15.4,16,AMD Radeon Pro 455,Mac OS,1.83,IPS Panel Retina Display,220.53,512,Intel,Core i7,2.7,2537.45
+Dell,Ultrabook,13.3,8,Intel Iris Plus Graphics 640,Windows,1.23,Standard,276.05,256,Intel,Core i7,2.4,1379.0
+Lenovo,Notebook,15.6,4,AMD Radeon R2 Graphics,Windows,2.2,Standard,100.45,128,AMD,E-Series,2.2,349.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.3,IPS Panel,127.34,128,Intel,Core i7,2.6,2299.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.56,Standard,141.21,0,Intel,Core i5,2.5,819.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.37,IPS Panel,165.63,512,Intel,Core i5,2.5,1825.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,2.9,Standard,127.34,256,Intel,Core i7,2.8,2419.0
+Lenovo,Netbook,11.6,4,Intel HD Graphics 500,Windows,1.59,IPS Panel,135.09,128,Intel,Celeron Quad Core,1.1,553.0
+Acer,Gaming,15.6,8,Nvidia GeForce GTX 1050,Linux,2.4,Standard,141.21,0,Intel,Core i5,2.5,798.0
+Lenovo,Ultrabook,14.0,24,Intel HD Graphics 620,Windows,1.32,Standard,209.8,512,Intel,Core i7,2.7,2382.0
+Asus,2 in 1 Convertible,11.6,2,Intel HD Graphics 500,Windows,1.1,Standard,135.09,0,Intel,Celeron Dual Core,1.1,275.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,2.7,Standard,127.34,128,Intel,Core i7,2.8,1191.8
+Acer,Notebook,11.6,4,Intel HD Graphics 405,Windows,1.4,Standard,135.09,0,Intel,Pentium Quad Core,1.6,485.0
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.64,Standard,157.35,256,Intel,Core i5,2.5,1010.51
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.9,Standard,100.45,0,Intel,Core i5,2.5,825.0
+Acer,Notebook,15.6,4,AMD Radeon R5,Windows,2.1,Standard,100.45,0,AMD,A9-Series,3.0,400.0
+HP,Notebook,15.6,8,AMD Radeon 530,Windows,1.91,Standard,141.21,256,Intel,Core i7,2.7,719.0
+Asus,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.5,Standard,157.35,0,Intel,Celeron Dual Core,1.1,298.0
+HP,Workstation,17.3,8,Nvidia Quadro M1200,Windows,3.14,Standard,106.11,0,Intel,Core i5,2.8,1860.99
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.86,Standard,141.21,0,Intel,Core i3,2.0,397.0
+Dell,Ultrabook,12.5,8,Intel HD Graphics,Windows,1.36,Standard,176.23,256,Intel,Core i5,2.5,1472.2
+Lenovo,Notebook,15.6,6,Nvidia GeForce GTX 940MX,Windows,2.2,Standard,141.21,256,Intel,Core i7,2.7,789.0
+Dell,Notebook,14.0,8,Nvidia GeForce GTX 930MX,Linux,1.64,Standard,157.35,256,Intel,Core i5,2.8,1089.0
+Dell,Notebook,15.6,4,Intel HD Graphics,Windows,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.6,443.99
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,1.96,Standard,141.21,256,Intel,Core i7,2.5,679.0
+Asus,Notebook,15.6,8,Nvidia GeForce 920MX,Windows,2.0,Standard,141.21,256,Intel,Core i5,2.5,769.0
+Other,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.15,Standard,135.09,0,Intel,Celeron Dual Core,1.6,269.0
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1060,Windows,2.73,IPS Panel,127.34,128,Intel,Core i5,2.5,1770.0
+Lenovo,Notebook,14.0,8,Nvidia GeForce 920MX,Windows,1.87,IPS Panel,157.35,256,Intel,Core i5,2.5,857.07
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.06,Standard,141.21,0,Intel,Core i5,2.5,955.0
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,1.86,Standard,100.45,0,Intel,Core i3,2.0,438.69
+HP,Workstation,17.3,8,AMD FirePro W6150M,Windows,3.0,IPS Panel,127.34,0,Intel,Core i7,2.6,2899.0
+HP,Notebook,14.0,4,Intel HD Graphics 400,Windows,1.44,Standard,111.94,32,Intel,Celeron Dual Core,1.6,229.0
+HP,Notebook,15.6,8,AMD FirePro W4190M,Windows,1.9,Standard,141.21,0,Intel,Core i5,2.5,1154.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1050,Windows,2.9,Standard,127.34,256,Intel,Core i7,2.8,1407.0
+Apple,Ultrabook,15.4,16,AMD Radeon Pro 555,Mac OS,1.83,IPS Panel Retina Display,220.53,256,Intel,Core i7,2.8,2439.97
+HP,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.39,Standard,276.05,256,Intel,Core i7,2.7,1149.0
+Dell,Gaming,17.3,32,Nvidia GeForce GTX 1070,Windows,4.36,Standard,254.67,1024,Intel,Core i7,2.8,3659.4
+Asus,Ultrabook,15.6,16,Nvidia GeForce GTX 940MX,Windows,1.63,Standard,141.21,512,Intel,Core i7,2.7,1468.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.62,Standard,282.42,512,Intel,Core i7,2.8,1679.0
+Dell,Notebook,17.3,8,AMD Radeon R7 M445,Linux,2.83,Standard,127.34,0,Intel,Core i7,2.7,865.0
+HP,Workstation,15.6,8,Nvidia Quadro M1000M,Windows,2.59,IPS Panel,141.21,256,Intel,Core i7,2.6,2229.0
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.48,Standard,165.63,256,Intel,Core i5,2.4,1629.0
+Toshiba,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,128,Intel,Core i3,2.1,498.0
+Asus,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,2.2,Standard,141.21,256,Intel,Core i7,2.8,2449.0
+Lenovo,Ultrabook,12.5,8,Intel HD Graphics 620,Windows,1.36,IPS Panel,176.23,256,Intel,Core i5,2.5,1429.0
+Acer,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.1,Standard,100.45,0,Intel,Celeron Dual Core,2.0,333.0
+Dell,Notebook,13.3,4,Intel HD Graphics 520,Windows,1.65,Standard,117.83,0,Intel,Core i3,2.0,849.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.4,IPS Panel,141.21,0,Intel,Core i5,2.5,819.0
+Other,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,0.81,Standard,165.63,256,Intel,Core i5,2.5,1499.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.43,IPS Panel,254.67,512,Intel,Core i7,2.6,2649.0
+Acer,Notebook,15.6,4,Intel HD Graphics,Chrome OS,2.2,Standard,100.45,16,Intel,Celeron Dual Core,1.5,209.0
+Lenovo,2 in 1 Convertible,14.0,16,Intel HD Graphics 520,Windows,1.36,Standard,209.8,512,Intel,Core i7,2.6,2499.0
+Lenovo,Notebook,15.6,8,Nvidia Quadro M2200M,Windows,2.67,Standard,141.21,256,Intel,Core i7,2.9,2090.0
+Lenovo,Notebook,17.3,6,Nvidia GeForce GTX 940MX,Windows,2.8,Standard,106.11,128,Intel,Core i5,2.5,719.0
+Asus,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.2,Standard,141.21,128,AMD,A10-Series,2.5,575.0
+Lenovo,Notebook,15.6,4,Nvidia GeForce 920MX,Windows,2.2,Standard,141.21,0,Intel,Core i3,2.0,468.0
+Other,Notebook,15.6,16,Nvidia GeForce MX150,No OS,1.95,IPS Panel,141.21,256,Intel,Core i7,1.8,1399.95
+HP,Notebook,15.6,8,Intel HD Graphics 620,No OS,1.86,Standard,141.21,256,Intel,Core i5,2.5,575.0
+Apple,Ultrabook,15.4,16,Intel Iris Pro Graphics,Mac OS,2.04,IPS Panel Retina Display,220.53,0,Intel,Core i7,2.2,2139.97
+Asus,2 in 1 Convertible,15.6,12,Nvidia GeForce GT 940MX,Windows,2.26,Standard,141.21,512,Intel,Core i7,2.7,1099.0
+Dell,Ultrabook,13.3,16,Intel UHD Graphics 620,Windows,1.21,IPS Panel,331.26,1024,Intel,Core i7,1.8,2499.0
+HP,Netbook,12.5,4,Intel HD Graphics 520,Windows,2.4,Standard,125.37,128,Intel,Core i5,2.3,1599.0
+Acer,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.4,Standard,141.21,0,Intel,Core i3,2.4,499.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.7,Standard,157.35,256,Intel,Core i7,2.6,1499.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,3.21,Standard,141.21,128,Intel,Core i5,2.5,2051.0
+Lenovo,Notebook,15.6,6,Nvidia GeForce 920MX,Windows,2.4,Standard,141.21,256,Intel,Core i5,2.5,695.0
+Dell,Ultrabook,13.3,8,AMD Radeon 530,Windows,1.4,IPS Panel,165.63,256,Intel,Core i7,1.8,931.88
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.04,Standard,100.45,0,Intel,Core i5,2.5,846.5
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i5,1.6,800.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,Standard,141.21,128,Intel,Core i7,2.8,1149.0
+Dell,2 in 1 Convertible,13.3,16,Intel HD Graphics 615,Windows,1.22,Standard,276.05,512,Intel,Core i7,1.3,1899.0
+Dell,Ultrabook,13.3,4,AMD Radeon 530,Windows,1.4,IPS Panel,165.63,256,Intel,Core i5,1.6,818.35
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.63,Standard,127.34,256,Intel,Core i5,2.5,1080.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.1,Standard,141.21,128,Intel,Core i3,2.4,705.5
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 960M,Windows,2.4,Standard,141.21,128,Intel,Core i7,2.6,1229.0
+Asus,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.1,Standard,165.63,256,Intel,Core i5,2.5,1358.0
+HP,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.49,Standard,165.63,256,Intel,Core i5,2.5,960.0
+Toshiba,Notebook,15.6,16,Nvidia GeForce 930M,Windows,2.4,IPS Panel,141.21,512,Intel,Core i7,2.5,1403.0
+Lenovo,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.6,IPS Panel,127.34,256,Intel,Core i7,2.7,2749.99
+HP,Notebook,15.6,6,AMD Radeon 530,Windows,2.1,Standard,141.21,0,AMD,A12-Series,2.7,529.0
+HP,Notebook,15.6,8,AMD Radeon R4 Graphics,Windows,1.91,Standard,100.45,128,AMD,A6-Series,2.5,445.9
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,3.0,Standard,127.34,0,Intel,Core i7,2.8,1187.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.3,Standard,100.45,0,Intel,Core i3,2.0,418.64
+Dell,Ultrabook,15.6,8,Nvidia GeForce GTX 940MX,Windows,1.9,IPS Panel,141.21,128,Intel,Core i5,1.6,1049.0
+Dell,Notebook,15.6,2,Intel HD Graphics,Windows,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.6,379.0
+Asus,Gaming,17.3,8,AMD Radeon RX 580,Windows,3.2,Standard,127.34,256,AMD,Ryzen,3.0,1299.0
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.95,Standard,157.35,256,Intel,Core i5,2.5,980.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.85,Standard,141.21,0,Intel,Core i3,2.0,414.9
+Acer,Notebook,14.0,4,Intel HD Graphics 400,Chrome OS,1.68,Standard,111.94,0,Intel,Celeron Dual Core,1.6,349.0
+Dell,Notebook,15.6,8,AMD Radeon R5 520,Windows,2.13,Standard,141.21,256,Intel,Core i7,1.8,767.8
+HP,Notebook,15.6,8,AMD Radeon R7 M465,Windows,1.84,Standard,141.21,256,Intel,Core i5,2.6,1349.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,No OS,2.2,Standard,141.21,256,Intel,Core i5,2.5,549.0
+Acer,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.1,IPS Panel,141.21,0,Intel,Core i3,2.4,479.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.62,Standard,141.21,256,Intel,Core i7,2.8,1479.0
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 960M,Windows,2.0,IPS Panel,282.42,256,Intel,Core i7,2.7,1299.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.5,Standard,127.34,128,Intel,Core i7,2.7,2349.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i7,1.8,870.0
+Lenovo,Workstation,15.6,8,Nvidia Quadro M1200,Windows,2.67,Standard,141.21,512,Intel,Core i7,2.8,1925.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 960M,Windows,2.72,IPS Panel,282.42,128,Intel,Core i7,2.6,1099.0
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.63,Standard,106.11,0,Intel,Core i5,2.5,910.0
+Other,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.2,Standard,100.45,0,Intel,Core i5,2.5,739.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.7,IPS Panel,157.35,128,Intel,Core i3,2.7,599.0
+Acer,2 in 1 Convertible,11.6,4,Intel HD Graphics 500,Windows,1.25,IPS Panel,189.91,0,Intel,Celeron Dual Core,2.0,349.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.54,Standard,157.35,256,Intel,Core i7,2.5,1887.21
+Dell,Notebook,15.6,4,Intel HD Graphics,Windows,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.6,369.0
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,2.31,Standard,111.94,256,Intel,Core i5,2.6,1124.0
+Asus,Ultrabook,14.0,16,Intel HD Graphics 620,Windows,1.1,Standard,157.35,512,Intel,Core i7,2.7,1900.0
+Lenovo,Notebook,15.6,4,Nvidia GeForce 920MX,Windows,2.2,Standard,141.21,0,Intel,Core i7,2.7,799.0
+Lenovo,Notebook,17.3,8,AMD Radeon R5 M330,Windows,3.0,Standard,106.11,0,Intel,Core i5,2.3,659.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.44,Standard,111.94,0,Intel,Celeron Dual Core,1.1,292.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Windows,2.5,Standard,100.45,0,Intel,Core i5,2.5,784.0
+Lenovo,Notebook,15.6,6,Nvidia GeForce 920MX,Windows,2.4,Standard,141.21,128,Intel,Core i3,2.3,569.0
+HP,2 in 1 Convertible,13.3,16,Intel UHD Graphics 620,Windows,1.29,IPS Panel,331.26,1024,Intel,Core i7,1.8,2449.0
+Lenovo,2 in 1 Convertible,14.0,8,Intel HD Graphics 620,Windows,1.42,Standard,209.8,256,Intel,Core i7,2.7,2590.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.18,Standard,100.45,0,Intel,Core i3,2.0,558.6
+Asus,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.0,Standard,100.45,0,Intel,Pentium Quad Core,1.1,304.0
+Dell,Workstation,15.6,8,Nvidia Quadro M620,Windows,2.06,Standard,141.21,256,Intel,Core i7,2.8,1763.0
+Asus,Ultrabook,13.3,8,Intel HD Graphics 515,Windows,1.2,IPS Panel,165.63,512,Intel,Core M,0.9,729.0
+Acer,Notebook,15.6,4,AMD Radeon R5,Windows,2.4,Standard,100.45,0,AMD,A8-Series,2.2,387.0
+HP,Notebook,15.6,6,AMD Radeon 530,Windows,1.95,IPS Panel,141.21,256,AMD,A9-Series,3.0,649.0
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Linux,1.93,Standard,100.45,0,Intel,Core i5,2.6,869.0
+Dell,Notebook,17.3,16,AMD Radeon 530,Windows,2.8,Standard,127.34,256,Intel,Core i7,1.8,1299.0
+Lenovo,Workstation,15.6,16,Nvidia GeForce GTX 940MX,Windows,2.3,IPS Panel,282.42,512,Intel,Core i7,2.8,2445.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,2.9,Standard,127.34,512,Intel,Core i7,2.8,2415.0
+HP,Notebook,13.3,16,Intel UHD Graphics 620,Windows,1.49,Standard,165.63,512,Intel,Core i7,1.8,1197.0
+Dell,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.5,Standard,209.8,256,Intel,Core i7,2.6,1962.98
+Lenovo,Notebook,15.6,8,AMD Radeon R5 M330,Windows,2.5,Standard,141.21,0,Intel,Core i5,2.3,788.49
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.84,Standard,141.21,256,Intel,Core i7,2.7,1304.0
+Dell,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.62,IPS Panel,165.63,0,Intel,Core i7,1.8,839.0
+Lenovo,Notebook,17.3,6,Nvidia GeForce GTX 940MX,Windows,2.8,Standard,106.11,128,Intel,Core i7,2.7,859.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 965M,Windows,2.6,Standard,127.34,256,Intel,Core i7,2.6,1599.0
+Acer,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.25,IPS Panel,135.09,0,Intel,Celeron Dual Core,1.6,297.0
+Dell,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.36,Standard,157.35,256,Intel,Core i5,2.6,1427.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.3,Standard,100.45,0,Intel,Core i3,2.4,469.01
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,3.0,Standard,127.34,128,Intel,Core i7,2.8,1168.0
+Asus,Notebook,17.3,4,Nvidia GeForce 920MX,Windows,2.8,Standard,106.11,0,Intel,Pentium Quad Core,1.6,530.0
+Lenovo,Notebook,15.6,12,AMD Radeon 530,Windows,2.2,Standard,141.21,512,AMD,A12-Series,3.6,949.0
+Other,Ultrabook,13.5,8,Intel Iris Plus Graphics 640,Windows,1.25,Standard,200.84,256,Intel,Core i7,2.5,1799.0
+HP,Notebook,15.6,6,AMD Radeon 530,Windows,1.91,IPS Panel,141.21,128,AMD,A10-Series,2.5,568.9
+Lenovo,2 in 1 Convertible,13.9,16,Intel UHD Graphics 620,Windows,1.4,IPS Panel,316.97,512,Intel,Core i7,1.8,1849.0
+Asus,Ultrabook,15.6,16,Nvidia GeForce MX150,Windows,1.5,Standard,141.21,256,Intel,Core i7,1.8,1262.0
+Acer,Notebook,15.6,6,AMD Radeon R5,Windows,2.1,Standard,100.45,0,AMD,A9-Series,3.0,409.0
+HP,Notebook,15.6,16,Intel UHD Graphics 620,Windows,2.1,Standard,141.21,512,Intel,Core i7,1.8,1159.0
+Dell,Workstation,15.6,16,Nvidia Quadro M1200,Windows,2.8,Standard,282.42,256,Intel,Xeon,3.0,3055.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 630,Windows,1.7,IPS Panel,157.35,256,Intel,Core i5,2.5,1474.0
+HP,Ultrabook,12.5,8,Intel HD Graphics 515,Windows,1.09,Standard,352.47,240,Intel,Core M,1.2,3100.0
+Asus,Gaming,17.3,12,Nvidia GeForce GTX 1050,Windows,2.2,Standard,127.34,128,Intel,Core i5,2.5,1369.9
+Lenovo,2 in 1 Convertible,14.0,8,Intel HD Graphics 520,Windows,1.8,IPS Panel,157.35,256,Intel,Core i7,2.5,1669.0
+Other,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,0.98,IPS Panel,157.35,512,Intel,Core i7,2.7,1899.0
+Acer,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.6,Standard,157.35,0,Intel,Celeron Quad Core,1.1,329.0
+Toshiba,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.0,Standard,100.45,128,Intel,Core i5,2.5,793.0
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,3.0,Standard,127.34,128,Intel,Core i5,2.5,938.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.8,Standard,157.35,256,Intel,Core i5,2.3,1191.0
+Dell,Ultrabook,15.6,8,Intel UHD Graphics 620,Windows,1.88,IPS Panel,141.21,256,Intel,Core i5,1.6,1096.16
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.32,IPS Panel,157.35,256,Intel,Core i5,2.5,1799.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i5,1.6,797.41
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.16,IPS Panel,141.21,512,Intel,Core i7,1.8,1262.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,2.4,IPS Panel,141.21,256,Intel,Core i7,2.8,1799.0
+HP,Notebook,13.3,4,Intel UHD Graphics 620,Windows,1.49,IPS Panel,165.63,0,Intel,Core i5,1.6,675.0
+Toshiba,Notebook,15.6,8,Nvidia GeForce 930M,Windows,2.2,IPS Panel,141.21,256,Intel,Core i7,2.5,1043.0
+HP,Notebook,15.6,6,AMD Radeon R5 M330,Windows,2.19,Standard,100.45,0,Intel,Core i7,2.5,764.0
+Dell,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.6,Standard,157.35,128,Intel,Core i3,2.0,735.87
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.5,Standard,141.21,256,Intel,Core i7,2.8,999.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Linux,2.2,Standard,141.21,256,Intel,Core i3,2.0,485.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.9,Standard,141.21,256,Intel,Core i5,2.5,1116.99
+Asus,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.45,Standard,165.63,256,Intel,Core i7,2.5,1280.0
+Acer,Notebook,15.6,4,Intel HD Graphics,Chrome OS,2.2,IPS Panel,141.21,0,Intel,Celeron Dual Core,1.5,359.0
+HP,Ultrabook,12.5,4,Intel HD Graphics 520,Windows,1.26,Standard,176.23,0,Intel,Core i5,2.3,1579.0
+HP,Ultrabook,12.5,4,Intel HD Graphics 520,Windows,1.26,Standard,125.37,256,Intel,Core i5,2.3,1244.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.23,Standard,276.05,256,Intel,Core i5,1.6,1869.0
+Acer,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.23,Standard,141.21,256,Intel,Core i5,2.5,691.0
+Lenovo,Notebook,17.3,6,Nvidia GeForce GTX 940M,Windows,2.8,Standard,106.11,0,Intel,Core i5,2.5,649.0
+Lenovo,2 in 1 Convertible,14.0,4,Intel HD Graphics 520,Windows,1.8,IPS Panel,157.35,128,Intel,Core i7,2.5,638.0
+Dell,Workstation,15.6,8,Nvidia Quadro M1200,Windows,2.0,IPS Panel,141.21,256,Intel,Core i7,2.7,2135.0
+Dell,Notebook,15.6,16,AMD Radeon R7 M445,Linux,2.36,Standard,141.21,256,Intel,Core i7,2.7,899.0
+Lenovo,Notebook,13.3,4,Intel HD Graphics 620,Windows,1.44,Standard,165.63,128,Intel,Core i5,2.5,881.0
+Asus,Gaming,17.3,8,Nvidia GeForce GTX 960M,Windows,3.52,Standard,127.34,128,Intel,Core i7,2.6,1312.49
+Lenovo,Notebook,15.6,4,Intel HD Graphics 505,No OS,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.1,359.99
+Acer,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.56,IPS Panel,157.35,256,Intel,Core i5,2.5,902.0
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,1.84,Standard,141.21,256,Intel,Core i7,2.5,1228.99
+Apple,Ultrabook,13.3,8,Intel Iris Plus Graphics 650,Mac OS,1.37,IPS Panel Retina Display,226.98,512,Intel,Core i5,3.1,2040.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.9,Standard,141.21,128,Intel,Core i5,2.5,945.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 400,Chrome OS,1.5,Standard,111.94,0,Intel,Celeron Quad Core,1.6,325.0
+Dell,Ultrabook,13.3,8,AMD Radeon 530,Windows,1.4,IPS Panel,165.63,256,Intel,Core i7,1.8,955.0
+Asus,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.25,Standard,157.35,256,Intel,Core i7,2.7,1049.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.25,Standard,100.45,0,Intel,Core i3,2.0,359.0
+Dell,Ultrabook,13.3,16,Intel UHD Graphics 620,Windows,1.2,Standard,276.05,512,Intel,Core i7,1.8,1869.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.07,Standard,141.21,0,Intel,Core i5,2.3,910.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,Standard,141.21,256,Intel,Core i5,2.5,1027.74
+Dell,Notebook,14.0,8,Nvidia GeForce GTX 930MX,Windows,1.64,Standard,157.35,256,Intel,Core i5,2.8,1179.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 505,Windows,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.1,309.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.86,Standard,100.45,0,Intel,Core i3,2.0,364.9
+Acer,Notebook,13.3,4,Intel HD Graphics 520,Windows,1.6,Standard,117.83,128,Intel,Core i5,2.3,655.0
+Dell,Notebook,15.6,8,Intel UHD Graphics 620,Windows,2.02,Standard,141.21,128,Intel,Core i7,1.8,855.0
+Acer,Notebook,15.6,4,AMD Radeon R5,Windows,2.1,Standard,100.45,0,AMD,A9-Series,3.0,395.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.04,Standard,141.21,0,Intel,Core i5,2.5,806.0
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.63,Standard,157.35,256,Intel,Core i5,1.6,860.0
+Other,Ultrabook,13.5,4,Intel HD Graphics 615,Windows,1.252,Standard,200.84,128,Intel,Core M,2.2,989.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.17,IPS Panel,209.8,512,Intel,Core i7,2.5,1686.64
+Asus,Notebook,15.6,4,Nvidia GeForce 920,Linux,2.1,Standard,141.21,0,Intel,Core i5,2.5,519.0
+HP,Notebook,15.6,4,Intel HD Graphics 400,Windows,2.1,Standard,100.45,0,Intel,Celeron Dual Core,1.6,347.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.9,Standard,100.45,0,Intel,Core i3,2.0,450.0
+HP,Ultrabook,12.5,4,Intel HD Graphics 620,Windows,1.26,Standard,176.23,0,Intel,Core i5,2.5,1539.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,2.8,Standard,127.34,256,Intel,Core i7,2.8,2249.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M315,Windows,2.24,Standard,100.45,0,Intel,Core i5,2.3,769.15
+Other,Ultrabook,15.6,8,Intel HD Graphics 620,Windows,1.09,IPS Panel,141.21,512,Intel,Core i7,1.8,2299.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.2,Standard,100.45,0,Intel,Core i3,2.0,459.0
+Other,Ultrabook,13.5,8,Intel HD Graphics 620,Windows,1.252,Standard,200.84,256,Intel,Core i5,2.5,1340.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 405,No OS,2.2,Standard,100.45,0,Intel,Celeron Quad Core,1.6,329.0
+Asus,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.1,Standard,157.35,256,Intel,Core i5,2.5,1135.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 620,No OS,1.7,IPS Panel,157.35,256,Intel,Core i3,2.7,599.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Linux,2.25,Standard,141.21,0,Intel,Core i3,2.0,428.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.13,IPS Panel,157.35,0,Intel,Core i7,2.7,2049.0
+Asus,Gaming,17.3,32,Nvidia GeForce GTX 1080,Windows,4.7,Standard,127.34,512,Intel,Core i7,2.9,3890.0
+HP,Notebook,15.6,8,Intel UHD Graphics 620,Windows,2.1,Standard,141.21,0,Intel,Core i5,1.6,794.0
+Asus,Ultrabook,14.0,8,Intel UHD Graphics 620,Windows,1.25,Standard,157.35,256,Intel,Core i7,1.8,1099.0
+Acer,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,4.2,IPS Panel,127.34,256,Intel,Core i7,2.8,2599.0
+Lenovo,Notebook,17.3,4,AMD Radeon R5,Windows,2.6,Standard,106.11,128,AMD,A8-Series,2.2,489.0
+Asus,Notebook,17.3,4,Nvidia GeForce 920MX,Windows,2.0,Standard,127.34,0,Intel,Core i3,2.0,564.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce GTX 960M,Windows,2.6,IPS Panel,141.21,128,Intel,Core i5,2.3,789.0
+Dell,2 in 1 Convertible,15.6,8,Intel UHD Graphics 620,Windows,2.08,IPS Panel,141.21,0,Intel,Core i7,1.8,819.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 960M,Windows,2.6,IPS Panel,141.21,128,Intel,Core i7,2.6,1029.0
+Acer,Ultrabook,14.0,8,Intel UHD Graphics 620,Windows,1.6,IPS Panel,157.35,256,Intel,Core i5,1.6,770.0
+Other,Ultrabook,13.5,16,Intel Iris Plus Graphics 640,Windows,1.25,Standard,200.84,512,Intel,Core i7,2.5,2589.0
+HP,Netbook,12.5,8,Intel HD Graphics 515,Windows,0.97,Standard,176.23,512,Intel,Core M,1.2,1908.0
+Other,Notebook,15.6,16,Nvidia GeForce GTX 1050,Windows,2.5,Standard,141.21,128,Intel,Core i7,2.8,1699.0
+Lenovo,2 in 1 Convertible,14.0,16,Intel HD Graphics 620,Windows,1.42,Standard,209.8,512,Intel,Core i7,2.7,2509.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.48,Standard,157.35,512,Intel,Core i7,2.7,2089.0
+HP,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.11,IPS Panel,165.63,256,Intel,Core i5,2.5,1149.0
+Lenovo,Notebook,17.3,6,Nvidia GeForce GTX 940MX,Windows,2.8,Standard,106.11,128,Intel,Core i7,2.7,949.0
+Acer,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.23,Standard,141.21,0,Intel,Core i3,2.0,544.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,2.1,Standard,100.45,0,Intel,Core i5,2.3,398.0
+HP,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,1.86,Standard,100.45,256,AMD,A6-Series,2.5,369.0
+HP,Notebook,15.6,8,AMD Radeon R5 520,Windows,1.91,Standard,100.45,256,Intel,Core i5,2.5,618.99
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.32,Standard,141.21,0,Intel,Core i7,2.5,825.0
+Lenovo,Notebook,14.0,8,Nvidia GeForce GTX 940MX,Windows,1.87,IPS Panel,157.35,256,Intel,Core i7,2.7,859.0
+MSI,Gaming,18.4,32,Nvidia GTX 980 SLI,Windows,4.4,Standard,119.72,512,Intel,Core i7,2.9,2799.0
+Lenovo,Netbook,12.5,16,Intel HD Graphics 520,Windows,1.3,IPS Panel,176.23,512,Intel,Core i7,2.5,1650.0
+MSI,Gaming,14.0,16,Nvidia GeForce GTX 1060,Windows,1.6,IPS Panel,157.35,256,Intel,Core i7,2.8,1891.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.1,419.0
+Asus,Notebook,15.6,4,Nvidia GeForce 920M,Windows,2.2,Standard,100.45,0,Intel,Core i7,2.5,720.32
+Apple,Ultrabook,13.3,8,Intel HD Graphics 6000,Mac OS,1.34,Standard,127.68,0,Intel,Core i5,1.8,1158.7
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.88,Standard,100.45,0,Intel,Core i5,2.3,932.0
+Asus,2 in 1 Convertible,12.5,8,Intel HD Graphics 515,Chrome OS,1.2,Standard,176.23,0,Intel,Core M,1.2,1159.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.65,Standard,141.21,0,Intel,Core i5,2.5,999.0
+Dell,Notebook,15.6,32,Nvidia GeForce GTX 1050,Windows,2.06,Standard,282.42,1024,Intel,Core i7,2.8,2639.0
+Lenovo,2 in 1 Convertible,15.6,8,AMD Radeon R7 M460,Windows,2.08,Standard,141.21,256,Intel,Core i5,2.5,959.0
+Dell,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.36,Standard,157.35,256,Intel,Core i5,2.5,1639.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,4.14,Standard,127.34,512,Intel,Core i7,2.8,2499.0
+Toshiba,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.75,Standard,111.94,0,Intel,Core i5,2.3,915.0
+Acer,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.23,Standard,141.21,0,Intel,Core i5,2.5,616.0
+Lenovo,Notebook,13.3,4,Intel HD Graphics 620,Windows,1.44,IPS Panel,165.63,180,Intel,Core i3,2.4,735.0
+Lenovo,Notebook,15.6,8,AMD Radeon R5 M430,Windows,1.9,Standard,141.21,128,Intel,Core i5,2.5,817.95
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,Standard,141.21,128,Intel,Core i7,2.8,1199.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 520,Windows,2.02,Standard,157.35,256,Intel,Core i5,2.3,1340.0
+Lenovo,2 in 1 Convertible,15.6,4,Intel HD Graphics 520,Windows,1.8,IPS Panel,141.21,256,Intel,Core i7,2.5,847.0
+HP,Workstation,15.6,16,Nvidia Quadro M2200,Windows,2.6,Standard,141.21,256,Intel,Core i7,2.8,2419.0
+Asus,Ultrabook,13.3,8,Nvidia GeForce GTX 940M,Windows,1.45,IPS Panel,165.63,512,Intel,Core i5,2.3,1026.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.43,IPS Panel,127.34,256,Intel,Core i7,2.6,1948.99
+Lenovo,Notebook,17.3,8,AMD Radeon R4 Graphics,Windows,2.8,Standard,106.11,0,AMD,A6-Series,2.5,519.0
+Toshiba,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.0,IPS Panel,141.21,0,Intel,Core i5,2.5,860.0
+Dell,Notebook,15.6,16,AMD Radeon R7 M445,Windows,2.3,Standard,141.21,0,Intel,Core i7,2.7,859.01
+Asus,Notebook,17.3,8,Nvidia GeForce GTX 950M,Windows,2.69,Standard,127.34,256,Intel,Core i5,2.5,891.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 960M,Windows,2.9,Standard,127.34,128,Intel,Core i7,2.6,1511.19
+HP,Notebook,15.6,4,Intel HD Graphics 520,No OS,2.1,Standard,141.21,0,Intel,Core i3,2.0,349.0
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.5,Standard,127.34,128,Intel,Core i5,1.6,977.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,2.9,Standard,127.34,256,Intel,Core i7,2.8,2029.0
+HP,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.49,Standard,165.63,256,Intel,Core i7,2.7,1090.0
+Asus,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.63,Standard,111.94,0,Intel,Celeron Dual Core,1.1,299.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.4,Standard,141.21,256,Intel,Core i5,2.5,1199.0
+Acer,Notebook,15.6,4,Nvidia GeForce MX 130,Windows,2.2,Standard,141.21,256,Intel,Core i3,2.7,572.0
+HP,2 in 1 Convertible,15.6,4,Intel HD Graphics 620,Windows,2.3,Standard,100.45,0,Intel,Core i5,2.5,684.8
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.2,Standard,141.21,0,Intel,Core i3,2.0,409.0
+Acer,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,4.2,IPS Panel,127.34,256,Intel,Core i7,2.8,2299.0
+Acer,Notebook,15.6,4,Nvidia GeForce MX150,Windows,2.2,IPS Panel,141.21,0,Intel,Core i5,1.6,613.0
+HP,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.11,IPS Panel,165.63,256,Intel,Core i7,2.7,1349.0
+Lenovo,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.25,Standard,135.09,16,Intel,Celeron Dual Core,1.6,265.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,IPS Panel,141.21,128,Intel,Core i5,2.5,1099.0
+Dell,Ultrabook,15.6,16,Intel UHD Graphics 620,Windows,1.88,Standard,141.21,768,Intel,Core i7,1.9,1607.96
+Lenovo,Notebook,13.3,4,Intel HD Graphics 620,Windows,1.5,IPS Panel,165.63,128,Intel,Core i3,2.4,549.0
+Apple,Ultrabook,13.3,8,Intel Iris Plus Graphics 640,Mac OS,1.37,IPS Panel Retina Display,226.98,128,Intel,Core i5,2.3,1339.69
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,1.86,Standard,100.45,0,Intel,Core i3,2.0,439.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Windows,2.36,Standard,141.21,256,Intel,Core i5,2.5,889.0
+Dell,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.79,Standard,111.94,128,Intel,Core i3,2.3,740.0
+Dell,Ultrabook,12.5,8,Intel HD Graphics 620,Windows,1.6,Standard,176.23,256,Intel,Core i7,2.8,1690.0
+Dell,Workstation,15.6,8,Nvidia Quadro M620,Windows,2.23,Standard,141.21,0,Intel,Core i7,2.8,1778.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.54,Standard,157.35,512,Intel,Core i7,2.5,1468.0
+Acer,Netbook,11.6,4,Intel HD Graphics,Windows,1.4,Standard,135.09,0,Intel,Celeron Dual Core,1.6,269.0
+Lenovo,Notebook,15.6,4,AMD Radeon R4 Graphics,No OS,2.2,Standard,100.45,0,AMD,A6-Series,2.9,309.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.91,Standard,100.45,128,Intel,Core i5,2.5,589.0
+HP,Notebook,15.6,4,Intel HD Graphics 400,No OS,1.86,Standard,100.45,0,Intel,Celeron Dual Core,1.6,259.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.9,Standard,141.21,256,Intel,Core i5,2.6,1179.0
+Dell,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,4.42,IPS Panel,127.34,128,Intel,Core i7,2.8,3012.77
+Asus,Gaming,15.6,8,AMD Radeon RX 560,Windows,2.45,Standard,141.21,0,AMD,FX,3.0,699.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.7,Standard,127.34,256,Intel,Core i7,2.8,1598.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.23,Standard,165.63,256,Intel,Core i5,1.6,1399.0
+Dell,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.55,Standard,165.63,0,Intel,Core i5,1.6,659.0
+Asus,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.27,IPS Panel,165.63,256,Intel,Core i5,2.5,928.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.3,Standard,127.34,256,Intel,Core i7,2.8,1799.0
+Asus,Gaming,17.3,12,Nvidia GeForce GTX 1050 Ti,Linux,3.0,Standard,127.34,0,Intel,Core i7,2.8,949.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.2,Standard,141.21,0,Intel,Core i3,2.0,449.0
+Asus,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.3,Standard,111.94,128,Intel,Core i3,2.4,509.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M420,Windows,2.18,Standard,141.21,256,Intel,Core i7,2.7,739.0
+Acer,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.23,Standard,100.45,0,Intel,Core i5,2.5,549.0
+Dell,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.6,Standard,111.94,0,Intel,Core i5,2.5,875.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.95,Standard,157.35,128,Intel,Core i5,2.5,1265.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.3,IPS Panel,141.21,256,Intel,Core i5,2.5,911.0
+HP,Notebook,14.0,8,Nvidia GeForce GTX 930MX,Windows,1.64,Standard,157.35,256,Intel,Core i5,2.5,1049.26
+Lenovo,Notebook,15.6,8,Nvidia GeForce 920MX,No OS,2.2,Standard,100.45,256,Intel,Core i3,2.0,499.0
+Lenovo,Ultrabook,12.5,8,Intel HD Graphics 520,Windows,1.3,IPS Panel,125.37,180,Intel,Core i5,2.3,1099.0
+Dell,2 in 1 Convertible,15.6,16,Intel HD Graphics 620,Windows,2.09,Standard,141.21,512,Intel,Core i7,2.7,1179.0
+Asus,Notebook,15.6,4,Intel HD Graphics 500,Linux,2.0,Standard,100.45,0,Intel,Celeron Dual Core,1.1,274.99
+Other,Notebook,12.3,6,Intel HD Graphics 500,Windows,1.4,IPS Panel Retina Display,267.34,0,Intel,Celeron Quad Core,1.1,449.0
+Acer,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.1,Standard,100.45,0,Intel,Celeron Dual Core,1.1,348.0
+Dell,Ultrabook,15.6,8,Intel UHD Graphics 620,Windows,1.88,Standard,141.21,512,Intel,Core i7,1.9,1298.0
+HP,Notebook,15.6,4,Intel UHD Graphics 620,Windows,2.04,Standard,100.45,0,Intel,Core i5,1.6,521.47
+Lenovo,Notebook,17.3,8,Nvidia GeForce MX150,No OS,2.8,Standard,106.11,256,Intel,Core i5,1.6,698.0
+Asus,Notebook,15.6,4,Intel HD Graphics,Windows,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.6,369.0
+Dell,2 in 1 Convertible,15.6,8,Intel HD Graphics 620,Windows,2.3,IPS Panel,141.21,256,Intel,Core i5,2.7,1094.0
+HP,Notebook,13.3,4,Intel UHD Graphics 620,Windows,1.49,IPS Panel,165.63,0,Intel,Core i5,1.6,754.0
+Lenovo,2 in 1 Convertible,13.9,8,Intel HD Graphics 620,Windows,1.38,IPS Panel,158.48,256,Intel,Core i7,2.7,1349.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.2,Standard,165.63,256,Intel,Core i5,1.6,1449.9
+Toshiba,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.0,Standard,100.45,0,Intel,Core i3,2.4,489.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.04,Standard,141.21,256,Intel,Core i5,2.5,889.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.04,Standard,100.45,0,Intel,Core i5,2.5,742.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.04,Standard,141.21,256,Intel,Core i5,2.5,839.0
+Toshiba,Ultrabook,13.3,32,Intel HD Graphics 620,Windows,1.05,Standard,165.63,512,Intel,Core i7,2.7,2799.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1050,Windows,2.7,Standard,127.34,128,Intel,Core i5,2.5,1095.0
+Asus,Gaming,17.3,64,Nvidia GeForce GTX 980,Windows,3.58,IPS Panel,127.34,1024,Intel,Core i7,2.7,3975.0
+Lenovo,Ultrabook,14.0,12,Intel HD Graphics 520,Windows,1.4,IPS Panel,157.35,256,Intel,Core i7,2.6,1673.0
+Dell,Notebook,15.6,16,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i7,1.8,1135.0
+Acer,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.6,IPS Panel,165.63,256,Intel,Core i5,2.3,689.0
+Other,Ultrabook,13.0,8,Intel HD Graphics 620,Windows,1.05,IPS Panel,199.69,512,Intel,Core i7,2.7,1499.0
+Dell,Notebook,15.6,8,AMD Radeon R5 520,Windows,2.13,Standard,141.21,256,Intel,Core i5,1.6,728.0
+Acer,Ultrabook,14.0,8,Intel UHD Graphics 620,Windows,1.6,IPS Panel,157.35,256,Intel,Core i7,1.8,884.0
+Other,Ultrabook,15.0,16,Nvidia GeForce GTX 940MX,Windows,1.23,Standard,146.86,256,Intel,Core i7,2.7,1849.0
+Toshiba,Notebook,14.0,4,Intel HD Graphics 510,Windows,1.75,Standard,111.94,128,Intel,Pentium Dual Core,2.1,499.0
+HP,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.43,Standard,157.35,256,Intel,Core i5,2.3,1469.0
+Dell,Notebook,17.3,16,Nvidia GeForce MX150,Windows,2.77,Standard,127.34,512,Intel,Core i7,1.8,1549.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,2.65,IPS Panel,141.21,256,Intel,Core i7,2.8,1499.0
+HP,Workstation,17.3,8,Nvidia Quadro M1200,Windows,3.14,Standard,127.34,0,Intel,Core i7,2.8,1907.99
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.2,Standard,141.21,256,Intel,Core i7,2.8,1299.0
+Toshiba,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.95,Standard,157.35,256,Intel,Core i5,2.3,1180.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 505,Windows,2.2,Standard,141.21,0,Intel,Pentium Quad Core,1.1,344.0
+Dell,2 in 1 Convertible,13.3,4,Intel HD Graphics 620,Windows,1.71,Standard,165.63,0,Intel,Core i3,2.4,649.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.31,Standard,141.21,0,Intel,Core i5,2.3,940.0
+Dell,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.29,Standard,276.05,256,Intel,Core i7,2.7,1477.0
+Other,Notebook,15.6,4,Intel HD Graphics,Windows,1.89,Standard,141.21,0,Intel,Atom,1.44,248.9
+HP,Gaming,17.3,12,Nvidia GeForce GTX 1060,Windows,3.78,IPS Panel,127.34,0,Intel,Core i7,2.8,1699.0
+HP,Ultrabook,15.6,8,Intel HD Graphics 620,Windows,1.91,Standard,141.21,256,Intel,Core i7,1.8,659.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.86,Standard,100.45,0,Intel,Core i3,2.0,345.99
+Dell,Notebook,17.3,4,AMD Radeon R7 M445,Windows,2.36,Standard,106.11,0,Intel,Core i3,2.0,659.0
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.28,Standard,165.63,256,Intel,Core i5,2.5,2277.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,3.78,Standard,127.34,256,Intel,Core i7,2.8,2499.0
+Dell,Notebook,17.3,8,AMD Radeon 530,Windows,2.8,Standard,127.34,128,Intel,Core i5,1.6,1085.0
+HP,Workstation,15.6,8,Nvidia Quadro M1000M,Windows,2.0,IPS Panel,141.21,8,Intel,Core i7,2.7,2249.0
+Other,Notebook,13.3,4,Intel HD Graphics 400,Windows,1.35,Standard,165.63,0,Intel,Atom,1.44,196.0
+Lenovo,Notebook,14.0,8,Nvidia GeForce GTX 940MX,Windows,1.5,IPS Panel,157.35,256,Intel,Core i5,2.5,1099.0
+Lenovo,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,2.19,Standard,100.45,0,AMD,A6-Series,2.0,298.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.36,Standard,141.21,128,Intel,Core i7,1.8,979.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M430,Windows,2.24,Standard,141.21,0,Intel,Core i5,2.5,565.0
+Dell,2 in 1 Convertible,13.3,8,Intel HD Graphics 615,Windows,1.24,Standard,276.05,256,Intel,Core i5,1.2,1813.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,3.2,IPS Panel,141.21,256,Intel,Core i7,2.8,1499.0
+HP,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,IPS Panel,141.21,128,Intel,Core i7,2.8,1099.0
+HP,Ultrabook,15.6,4,AMD Radeon R5 520,Windows,1.91,Standard,141.21,256,AMD,A9-Series,3.0,499.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,2.7,Standard,127.34,256,Intel,Core i7,2.8,1599.0
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,128,Intel,Core i3,2.0,449.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce GTX 940MX,No OS,2.2,Standard,141.21,0,Intel,Core i3,2.4,499.0
+Other,Ultrabook,12.5,8,Intel HD Graphics 520,Windows,1.25,Standard,352.47,256,Intel,Core i7,2.5,1029.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.24,Standard,100.45,0,Intel,Core i5,2.3,737.0
+HP,Ultrabook,15.6,8,AMD Radeon R7 M365X,Windows,1.84,Standard,141.21,256,Intel,Core i7,2.5,1296.99
+Dell,Notebook,15.6,16,AMD Radeon R7 M445,Windows,2.3,Standard,141.21,256,Intel,Core i7,2.7,1181.27
+Lenovo,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.29,Standard,100.45,0,Intel,Core i3,2.3,459.0
+Dell,Ultrabook,14.0,8,Intel UHD Graphics 620,Windows,1.7,Standard,157.35,256,Intel,Core i5,1.6,879.0
+Dell,Notebook,15.6,8,AMD Radeon R5 520,Linux,2.14,Standard,141.21,256,Intel,Core i7,1.8,735.07
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.3,IPS Panel,127.34,512,Intel,Core i7,2.6,2150.0
+Lenovo,Notebook,17.3,4,Intel HD Graphics 520,Windows,2.8,Standard,106.11,0,Intel,Core i3,2.0,489.0
+Toshiba,Notebook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,165.63,256,Intel,Core i5,2.3,1460.0
+Toshiba,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.5,IPS Panel,165.63,256,Intel,Core i5,2.5,973.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Windows,2.33,Standard,141.21,256,Intel,Core i7,2.7,899.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.43,Standard,157.35,256,Intel,Core i7,2.6,1449.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.85,Standard,141.21,0,Intel,Core i7,2.7,779.0
+Lenovo,Ultrabook,12.5,8,Intel HD Graphics 620,Windows,1.36,IPS Panel,176.23,256,Intel,Core i7,2.7,1650.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.73,Standard,127.34,256,Intel,Core i7,2.8,2049.9
+Lenovo,Notebook,15.6,4,Nvidia GeForce 920M,Windows,2.4,Standard,141.21,0,Intel,Core i5,2.5,609.0
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,1.91,Standard,141.21,256,AMD,A6-Series,2.5,478.89
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,2.15,Standard,141.21,0,Intel,Core i5,2.3,462.35
+Acer,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.7,IPS Panel,141.21,128,Intel,Core i7,2.8,1260.0
+HP,Notebook,17.3,6,AMD Radeon R7 M440,Windows,2.65,IPS Panel,127.34,0,AMD,A10-Series,2.4,569.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,1.8,Standard,141.21,256,Intel,Core i7,2.8,2094.48
+Acer,Notebook,17.3,4,Nvidia GeForce GTX 940MX,Windows,3.3,Standard,106.11,0,Intel,Core i3,2.0,598.0
+Dell,Notebook,17.3,8,Nvidia GeForce GTX 1060,Windows,4.42,IPS Panel,127.34,0,Intel,Core i7,2.7,2046.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1050 Ti,Windows,2.7,Standard,127.34,256,Intel,Core i7,2.8,1349.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1050,Windows,2.4,Standard,141.21,256,Intel,Core i7,2.8,1294.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.5,IPS Panel,141.21,128,Intel,Core i7,2.8,1048.0
+Asus,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.0,Standard,100.45,0,Intel,Celeron Dual Core,1.1,339.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Linux,2.32,Standard,100.45,0,Intel,Core i5,2.5,589.52
+Lenovo,Ultrabook,14.0,8,AMD Radeon RX 550,Windows,1.75,IPS Panel,157.35,256,Intel,Core i7,1.8,1215.38
+HP,Notebook,15.6,4,AMD Radeon R5,Windows,1.91,Standard,141.21,256,AMD,A9-Series,3.0,488.99
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,2.1,Standard,141.21,0,Intel,Core i3,2.0,469.0
+Acer,Notebook,14.0,8,Intel HD Graphics 520,Windows,2.1,Standard,111.94,0,Intel,Core i3,2.0,389.0
+Apple,Ultrabook,12.0,8,Intel HD Graphics 5300,Mac OS,0.92,IPS Panel Retina Display,226.42,0,Intel,Core M,1.1,1163.0
+HP,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.04,Standard,100.45,0,Intel,Core i7,2.7,579.0
+Asus,Netbook,11.6,4,Intel HD Graphics 500,Windows,1.2,Standard,135.09,0,Intel,Celeron Dual Core,1.1,340.0
+HP,Netbook,12.5,8,Intel HD Graphics 620,Windows,1.26,Standard,176.23,512,Intel,Core i7,2.7,1483.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M420,Linux,2.18,Standard,141.21,128,Intel,Core i5,2.5,569.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.21,IPS Panel,165.63,256,Intel,Core i5,1.6,1629.0
+HP,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.43,Standard,157.35,256,Intel,Core i7,2.5,1500.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.1,Standard,100.45,0,Intel,Core i3,2.4,668.48
+Dell,Notebook,15.6,4,AMD Radeon R5 M420,Linux,2.18,Standard,100.45,0,Intel,Core i3,2.0,465.0
+Toshiba,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.2,Standard,100.45,256,Intel,Core i5,2.3,1119.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.21,IPS Panel,165.63,256,Intel,Core i7,1.8,1649.0
+HP,Notebook,15.6,4,Intel HD Graphics 400,No OS,1.86,Standard,100.45,0,Intel,Celeron Dual Core,1.6,288.9
+Lenovo,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.3,IPS Panel,141.21,256,Intel,Core i7,2.6,1529.0
+Lenovo,Ultrabook,14.0,4,Intel HD Graphics 520,Windows,1.7,Standard,157.35,180,Intel,Core i5,2.3,1096.0
+Lenovo,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.4,IPS Panel,165.63,256,Intel,Core i3,2.4,949.0
+Acer,Notebook,17.3,8,Nvidia GeForce GTX 940MX,Windows,3.3,Standard,106.11,0,Intel,Core i3,2.0,629.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.64,Standard,111.94,0,Intel,Core i5,2.5,779.0
+HP,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.34,IPS Panel,165.63,256,Intel,Core i5,2.5,1189.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.86,Standard,141.21,0,Intel,Core i3,2.0,344.99
+Lenovo,Notebook,15.6,8,AMD Radeon RX 550,Windows,2.1,IPS Panel,141.21,256,Intel,Core i7,1.8,1229.56
+HP,Notebook,15.6,4,Intel HD Graphics 400,No OS,1.86,Standard,100.45,128,Intel,Celeron Dual Core,1.6,299.0
+Asus,Notebook,15.6,4,Intel HD Graphics 500,Linux,2.0,Standard,100.45,0,Intel,Celeron Dual Core,1.1,224.0
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Linux,2.3,Standard,100.45,0,Intel,Core i5,2.5,522.99
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.56,Standard,141.21,128,Intel,Core i7,2.8,1060.49
+Dell,Notebook,13.3,4,Intel HD Graphics 520,Windows,1.65,Standard,117.83,128,Intel,Core i3,2.0,689.0
+Toshiba,Ultrabook,14.0,16,Intel HD Graphics 620,Windows,1.24,Standard,157.35,512,Intel,Core i7,2.7,1865.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,No OS,2.2,Standard,141.21,0,Intel,Core i5,2.5,467.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.04,Standard,100.45,256,Intel,Core i5,2.5,979.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.02,Standard,141.21,256,Intel,Core i7,1.8,1142.4
+Acer,Notebook,14.0,4,Intel HD Graphics 510,Chrome OS,1.45,Standard,111.94,0,Intel,Celeron Dual Core,1.6,375.0
+Asus,Notebook,15.6,4,AMD Radeon R2 Graphics,Windows,2.0,Standard,100.45,0,AMD,E-Series,1.8,349.0
+Dell,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.6,IPS Panel,165.63,256,Intel,Core i5,2.5,1199.0
+HP,2 in 1 Convertible,14.0,4,Nvidia GeForce GTX 940MX,Windows,1.63,IPS Panel,157.35,128,Intel,Core i3,2.4,699.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 510,Windows,2.1,Standard,100.45,0,Intel,Celeron Dual Core,1.6,318.0
+HP,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.43,Standard,157.35,256,Intel,Core i5,2.3,1513.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,No OS,2.3,IPS Panel,141.21,256,Intel,Core i5,2.5,573.0
+Toshiba,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,0,Intel,Core i3,2.2,447.0
+Toshiba,Notebook,13.3,4,Intel HD Graphics 520,Windows,1.2,Standard,165.63,128,Intel,Core i5,2.3,1195.0
+HP,Notebook,17.3,16,Nvidia GeForce MX150,Windows,2.9,IPS Panel,127.34,0,Intel,Core i7,1.8,1059.0
+Dell,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.3,Standard,276.05,256,Intel,Core i7,2.5,1268.0
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.48,Standard,157.35,256,Intel,Core i5,2.6,1268.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,2.99,Standard,127.34,256,Intel,Core i7,2.8,1749.0
+Apple,Ultrabook,13.3,8,Intel Iris Plus Graphics 640,Mac OS,1.37,IPS Panel Retina Display,226.98,256,Intel,Core i5,2.3,1518.55
+HP,Notebook,14.0,8,Nvidia GeForce GTX 930MX,Windows,1.64,Standard,157.35,256,Intel,Core i7,2.7,1185.43
+Acer,Notebook,15.6,8,AMD Radeon RX 540,Windows,2.2,Standard,100.45,256,AMD,A12-Series,2.7,659.0
+Other,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.31,Standard,165.63,256,Intel,Core i7,2.7,1599.0
+Lenovo,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.4,Standard,141.21,0,Intel,Core i5,2.5,564.0
+HP,Notebook,13.3,8,Intel HD Graphics 520,Windows,1.16,Standard,165.63,256,Intel,Core i5,2.3,1690.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.64,Standard,111.94,0,Intel,Core i3,2.4,684.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M430,Linux,2.3,Standard,100.45,0,Intel,Core i7,2.7,805.99
+Toshiba,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,165.63,256,Intel,Core i7,2.5,1363.0
+HP,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.29,IPS Panel,331.26,256,Intel,Core i5,1.6,1499.0
+HP,Notebook,15.6,4,Intel HD Graphics 405,Windows,1.96,Standard,100.45,0,Intel,Pentium Quad Core,1.6,500.0
+HP,Gaming,15.6,12,Nvidia GeForce GTX 1050,Windows,2.62,IPS Panel,141.21,128,Intel,Core i7,2.8,1249.0
+HP,Workstation,15.6,8,Nvidia Quadro M1000M,Windows,2.59,Standard,141.21,256,Intel,Core i7,2.6,1561.0
+HP,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.32,IPS Panel,165.63,256,Intel,Core i7,2.7,1399.0
+Dell,Ultrabook,12.5,16,Intel HD Graphics 620,Windows,1.18,Standard,176.23,256,Intel,Core i7,2.8,1859.0
+HP,Notebook,15.6,4,AMD Radeon R2 Graphics,No OS,1.86,Standard,100.45,0,AMD,E-Series,1.5,258.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 500,No OS,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.1,321.99
+Acer,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.4,Standard,100.45,0,Intel,Core i5,2.5,559.0
+Acer,Notebook,15.6,8,AMD Radeon R5,Windows,2.4,Standard,100.45,0,AMD,A8-Series,2.2,449.0
+Other,2 in 1 Convertible,12.3,4,ARM Mali T860 MP4,Chrome OS,1.15,IPS Panel,234.51,0,Samsung,Cortex,2.0,659.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 960M,Windows,2.59,Standard,141.21,0,Intel,Core i7,2.6,879.01
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.18,Standard,141.21,256,Intel,Core i5,2.5,750.0
+Dell,Notebook,15.6,4,Intel HD Graphics,Linux,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.6,274.9
+Lenovo,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.4,IPS Panel,165.63,256,Intel,Core i7,2.7,1010.0
+Dell,Gaming,17.3,16,Nvidia GeForce GTX 1080,Windows,4.36,Standard,169.78,512,Intel,Core i7,2.7,2758.0
+HP,Notebook,14.0,8,Nvidia GeForce GTX 930MX,Windows,1.63,Standard,157.35,256,Intel,Core i7,1.8,1031.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,3.2,IPS Panel,141.21,512,Intel,Core i7,2.8,1749.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.95,Standard,111.94,0,Intel,Core i5,2.5,1060.0
+HP,Notebook,15.6,4,AMD Radeon R2 Graphics,Windows,1.86,Standard,100.45,0,AMD,E-Series,1.8,297.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,2.65,Standard,141.21,256,Intel,Core i5,2.5,1195.0
+Asus,Gaming,17.3,32,Nvidia GeForce GTX 980M,Windows,3.58,IPS Panel,127.34,512,Intel,Core i7,2.7,1279.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.9,Standard,141.21,0,Intel,Core i5,2.5,549.0
+Lenovo,Ultrabook,12.5,8,Intel HD Graphics 520,Windows,1.3,IPS Panel,176.23,256,Intel,Core i7,2.5,1713.49
+Acer,Notebook,15.6,8,Nvidia GeForce MX150,Windows,3.0,IPS Panel,141.21,256,Intel,Core i7,1.8,951.0
+Lenovo,2 in 1 Convertible,14.0,16,Intel HD Graphics 620,Windows,1.38,Standard,157.35,512,Intel,Core i7,2.7,1749.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.65,IPS Panel,141.21,128,Intel,Core i7,2.8,1349.0
+Lenovo,Notebook,15.6,16,Nvidia Quadro M2200M,Windows,2.5,Standard,141.21,512,Intel,Core i7,2.9,2449.0
+Asus,Notebook,15.6,4,Intel HD Graphics 405,Windows,2.65,Standard,100.45,0,Intel,Pentium Quad Core,1.6,309.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.8,Standard,127.34,256,Intel,Core i7,2.8,1890.0
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,Standard,141.21,0,Intel,Core i7,2.8,949.0
+HP,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,2.1,Standard,141.21,0,AMD,A6-Series,2.5,398.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.62,Standard,141.21,256,Intel,Core i5,2.5,985.0
+Other,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.45,IPS Panel,157.35,32,Intel,Celeron Quad Core,1.1,389.0
+Acer,Notebook,15.6,4,Intel HD Graphics 620,Linux,2.4,Standard,100.45,0,Intel,Core i5,2.5,441.8
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.1,Standard,141.21,0,Intel,Core i5,2.5,621.45
+Acer,Ultrabook,13.3,8,Intel HD Graphics 615,Windows,1.12,IPS Panel,165.63,256,Intel,Core i5,1.2,989.0
+Asus,Gaming,17.3,16,AMD Radeon RX 580,Windows,3.2,Standard,127.34,256,AMD,Ryzen,3.0,1549.0
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.1,Standard,100.45,0,Intel,Core i3,2.0,390.0
+Dell,Notebook,15.6,16,Nvidia GeForce GTX 1050,Windows,2.06,Standard,141.21,512,Intel,Core i7,2.8,1899.0
+Other,Gaming,14.0,16,Nvidia GeForce GTX 1060,Windows,1.95,Standard,157.35,1024,Intel,Core i7,2.8,3499.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M420,Windows,2.18,Standard,100.45,0,Intel,Core i3,2.0,617.9
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.16,IPS Panel,141.21,256,Intel,Core i7,1.8,1130.33
+Lenovo,Notebook,14.0,2,Intel HD Graphics 400,Windows,1.42,Standard,111.94,0,Intel,Celeron Dual Core,1.6,249.0
+HP,Workstation,15.6,8,Nvidia Quadro M1000M,Windows,2.0,Standard,141.21,256,Intel,Core i7,2.6,1899.0
+Asus,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.37,Standard,141.21,256,Intel,Core i5,2.5,1099.0
+Lenovo,Netbook,11.6,4,Intel HD Graphics 400,Windows,1.4,Standard,135.09,128,Intel,Celeron Dual Core,1.6,475.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.18,Standard,141.21,0,Intel,Core i5,2.5,836.0
+Lenovo,Notebook,15.6,4,Nvidia GeForce 920MX,Windows,2.2,Standard,141.21,0,Intel,Core i3,2.0,579.0
+HP,2 in 1 Convertible,13.3,4,Intel HD Graphics 620,Windows,1.28,Standard,165.63,256,Intel,Core i5,2.5,1799.0
+Lenovo,Gaming,17.3,32,Nvidia GeForce GTX 980M,Windows,4.6,IPS Panel,127.34,512,Intel,Core i7,2.7,3240.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Linux,2.25,Standard,100.45,0,Intel,Core i3,2.0,465.62
+HP,Notebook,14.0,8,Intel UHD Graphics 620,Windows,1.63,Standard,157.35,0,Intel,Core i5,1.6,812.0
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,2.24,Standard,141.21,128,Intel,Core i7,2.8,1339.0
+Acer,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.5,IPS Panel,157.35,128,Intel,Core i3,2.4,619.0
+HP,Notebook,14.0,8,Intel UHD Graphics 620,Windows,1.63,Standard,157.35,512,Intel,Core i7,1.8,1084.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.42,Standard,165.63,256,Intel,Core i5,1.6,1841.85
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.0,Standard,141.21,128,Intel,Core i7,2.7,1207.0
+HP,Notebook,13.3,8,Intel HD Graphics 515,Windows,1.16,Standard,276.05,256,Intel,Core M,1.1,1699.0
+Asus,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.0,Standard,100.45,256,Intel,Core i5,2.5,586.19
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 970M,Windows,4.14,Standard,127.34,128,Intel,Core i7,2.7,2199.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.2,Standard,141.21,128,Intel,Core i5,2.5,1089.0
+Other,Gaming,17.3,32,Nvidia GeForce GTX 1080,Windows,3.49,Standard,254.67,512,Intel,Core i7,2.9,5499.0
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,1.7,Standard,141.21,256,Intel,Core i7,1.8,1118.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i7,1.8,919.0
+Dell,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.09,Standard,141.21,0,Intel,Core i5,2.4,1046.44
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.1,Standard,100.45,128,Intel,Core i3,2.0,412.0
+HP,Notebook,14.0,6,Nvidia GeForce GTX 940MX,Windows,1.58,IPS Panel,157.35,256,Intel,Core i5,2.5,659.0
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 1050,Windows,1.99,Standard,141.21,0,Intel,Core i5,2.5,906.62
+HP,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.36,IPS Panel,157.35,256,Intel,Core i7,2.7,1750.0
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.5,Standard,127.34,0,Intel,Core i7,1.8,1018.0
+Toshiba,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.0,IPS Panel,141.21,0,Intel,Core i5,2.5,1064.0
+Dell,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.76,Standard,111.94,0,Intel,Core i5,2.3,755.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.13,IPS Panel,157.35,512,Intel,Core i7,2.7,2499.0
+Asus,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.2,Standard,135.09,0,Intel,Celeron Dual Core,1.6,287.9
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,2.2,Standard,100.45,128,Intel,Core i3,2.0,369.0
+Dell,Ultrabook,15.6,8,AMD Radeon 530,Windows,1.9,Standard,141.21,0,Intel,Core i5,1.6,663.0
+Dell,Ultrabook,12.5,4,Intel HD Graphics 520,Windows,1.5,Standard,125.37,0,Intel,Core i3,2.3,1135.15
+Asus,Notebook,15.6,4,Intel HD Graphics 505,Linux,2.0,Standard,100.45,0,Intel,Pentium Quad Core,1.1,398.99
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.62,Standard,141.21,0,Intel,Core i7,2.8,1099.0
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.5,IPS Panel,127.34,0,Intel,Core i5,1.6,914.0
+Dell,Notebook,15.6,8,AMD Radeon R5 520,Linux,2.2,Standard,141.21,0,Intel,Core i5,1.6,647.0
+Apple,Ultrabook,13.3,8,Intel Iris Plus Graphics 650,Mac OS,1.37,IPS Panel Retina Display,226.98,256,Intel,Core i5,3.1,1803.6
+Acer,2 in 1 Convertible,11.6,4,Intel HD Graphics 400,Chrome OS,1.25,IPS Panel,135.09,0,Intel,Celeron Quad Core,1.6,379.0
+HP,Notebook,14.0,8,Intel HD Graphics 405,Windows,1.94,Standard,111.94,0,Intel,Pentium Quad Core,1.6,389.0
+HP,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,1.86,Standard,141.21,256,AMD,A6-Series,2.5,398.49
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.18,Standard,141.21,0,Intel,Core i5,2.5,657.0
+MSI,Gaming,14.0,16,Nvidia GeForce GTX 970M,Windows,1.7,Standard,157.35,256,Intel,Core i7,2.6,1769.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 505,Windows,2.2,Standard,141.21,128,Intel,Pentium Quad Core,1.1,349.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 965M,No OS,4.0,IPS Panel,127.34,0,Intel,Core i7,2.6,998.0
+Toshiba,Ultrabook,14.0,16,Nvidia GeForce 930M,Windows,1.47,IPS Panel,157.35,512,Intel,Core i7,2.6,1764.0
+Toshiba,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.0,Standard,100.45,0,Intel,Core i3,2.4,669.0
+HP,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.48,Standard,220.84,512,Intel,Core i7,2.6,2041.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.7,Standard,157.35,256,Intel,Core i5,2.5,699.0
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,2.5,Standard,141.21,128,Intel,Core i7,2.8,1265.0
+Lenovo,Notebook,15.6,12,AMD Radeon 530,Windows,2.2,Standard,141.21,0,AMD,A12-Series,3.6,899.0
+Other,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.3,Standard,100.45,256,Intel,Core i5,2.3,649.0
+Acer,Notebook,15.6,8,AMD Radeon R5,Windows,2.23,Standard,141.21,256,AMD,A8-Series,2.2,469.0
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,0,Intel,Core i3,2.0,447.0
+Acer,Notebook,15.6,4,AMD Radeon R5,Windows,2.1,Standard,100.45,256,AMD,A9-Series,3.0,451.0
+Lenovo,Notebook,14.0,2,Intel HD Graphics,Windows,1.5,Standard,111.94,0,Intel,Celeron Dual Core,1.6,229.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.05,Standard,141.21,0,Intel,Core i5,1.6,685.0
+Asus,2 in 1 Convertible,12.5,4,Intel HD Graphics 515,Chrome OS,1.2,Standard,176.23,0,Intel,Core M,0.9,669.0
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1060,Windows,2.7,Standard,127.34,128,Intel,Core i7,2.8,1486.77
+Lenovo,2 in 1 Convertible,10.1,4,Intel HD Graphics 400,Android,0.69,IPS Panel,224.17,0,Intel,Atom,1.44,319.0
+HP,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.54,Standard,157.35,256,Intel,Core i5,2.3,1099.99
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,128,Intel,Core i5,1.6,719.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M420X,Windows,2.0,Standard,141.21,256,Intel,Core i3,2.0,739.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.7,Standard,157.35,256,Intel,Core i5,2.3,1186.0
+HP,Workstation,15.6,8,Nvidia Quadro M1200,Windows,2.6,Standard,141.21,256,Intel,Core i7,2.8,1738.27
+Dell,2 in 1 Convertible,15.0,4,Intel HD Graphics 620,Windows,2.08,Standard,146.86,0,Intel,Core i3,2.4,509.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050M,No OS,2.4,IPS Panel,141.21,256,Intel,Core i7,2.8,869.0
+HP,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.29,IPS Panel,331.26,512,Intel,Core i7,1.8,1999.0
+Asus,Notebook,14.1,4,Intel HD Graphics 500,Windows,1.65,Standard,111.14,0,Intel,Celeron Dual Core,1.1,348.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,2.2,Standard,141.21,128,Intel,Core i7,2.8,1191.8
+Lenovo,Ultrabook,14.0,16,Intel HD Graphics 620,Windows,1.13,IPS Panel,209.8,1024,Intel,Core i7,2.7,2625.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,2.31,Standard,111.94,0,Intel,Core i5,2.5,1189.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,2.2,Standard,141.21,128,Intel,Core i7,2.6,1476.11
+HP,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.48,Standard,157.35,256,Intel,Core i7,2.7,1292.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.22,IPS Panel,165.63,128,Intel,Core i5,1.6,979.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.19,IPS Panel,165.63,512,Intel,Core i7,1.8,1499.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.44,Standard,111.94,0,Intel,Celeron Dual Core,1.1,249.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.13,IPS Panel,157.35,0,Intel,Core i5,2.5,1875.0
+Dell,2 in 1 Convertible,13.3,16,Intel HD Graphics 615,Windows,1.22,Standard,165.63,256,Intel,Core i7,1.3,1649.0
+Lenovo,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.44,Standard,165.63,256,Intel,Core i5,2.5,949.0
+Dell,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.76,Standard,111.94,0,Intel,Core i3,2.0,585.0
+HP,Ultrabook,15.6,8,Intel HD Graphics 520,Windows,1.88,Standard,141.21,256,Intel,Core i7,2.5,2171.72
+Dell,Ultrabook,14.0,8,Intel HD Graphics,Windows,1.36,Standard,157.35,512,Intel,Core i7,2.8,1680.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M420,Windows,2.18,Standard,100.45,0,Intel,Core i5,2.5,684.99
+HP,Netbook,11.6,4,Intel HD Graphics 400,Chrome OS,1.23,Standard,135.09,0,Intel,Celeron Dual Core,1.6,385.0
+Toshiba,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,117.83,256,Intel,Core i5,2.3,1095.0
+HP,Notebook,15.6,4,Intel HD Graphics 405,Windows,1.86,Standard,141.21,256,Intel,Pentium Quad Core,1.6,398.99
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,4.42,IPS Panel,282.42,256,Intel,Core i7,2.8,2868.99
+HP,Workstation,17.3,8,Nvidia Quadro M3000M,Windows,3.0,IPS Panel,127.34,256,Intel,Core i7,2.6,3949.4
+Dell,2 in 1 Convertible,13.3,8,Intel HD Graphics 520,Windows,1.62,Standard,165.63,256,Intel,Core i7,2.5,798.01
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.86,Standard,100.45,0,Intel,Core i5,2.5,488.69
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.3,Standard,100.45,0,Intel,Core i3,2.4,459.0
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.2,Standard,141.21,128,Intel,Core i7,1.8,985.0
+HP,Gaming,17.3,12,AMD Radeon RX 580,Windows,3.74,IPS Panel,127.34,0,Intel,Core i7,2.8,1749.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,2.62,Standard,141.21,0,Intel,Core i7,2.8,1199.0
+HP,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.54,Standard,157.35,0,Intel,Core i5,2.3,1030.99
+Dell,2 in 1 Convertible,13.3,12,Intel HD Graphics 620,Windows,1.6,IPS Panel,165.63,256,Intel,Core i7,2.7,1299.0
+Lenovo,Ultrabook,14.0,16,Intel HD Graphics 620,Windows,1.7,Standard,157.35,512,Intel,Core i7,2.7,2299.0
+Lenovo,Notebook,15.6,8,AMD Radeon R5 M330,Windows,2.32,Standard,141.21,0,Intel,Core i7,2.5,895.0
+Asus,Ultrabook,12.5,16,Intel HD Graphics 620,Windows,0.91,Standard,176.23,512,Intel,Core i7,2.7,1950.0
+HP,Ultrabook,14.0,4,Intel HD Graphics 620,Windows,1.48,Standard,157.35,256,Intel,Core i5,2.7,1082.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.37,IPS Panel,165.63,256,Intel,Core i7,2.7,1757.42
+Lenovo,Ultrabook,12.5,8,Intel HD Graphics 620,Windows,1.36,IPS Panel,176.23,256,Intel,Core i5,2.6,1760.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.2,Standard,141.21,0,Intel,Core i5,2.3,535.0
+Lenovo,Ultrabook,14.0,8,Nvidia GeForce GT 940MX,Windows,1.96,IPS Panel,157.35,256,Intel,Core i7,2.8,1903.0
+Acer,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.23,Standard,100.45,0,Intel,Core i5,2.5,619.0
+Asus,Ultrabook,15.6,8,Nvidia GeForce GTX 940MX,Windows,1.7,Standard,141.21,256,Intel,Core i5,2.5,977.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce 920MX,Windows,2.2,Standard,141.21,0,Intel,Core i7,2.7,899.0
+Acer,Notebook,15.6,4,Intel HD Graphics 500,Linux,2.1,Standard,100.45,0,Intel,Celeron Dual Core,2.0,272.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,3.49,Standard,141.21,256,Intel,Core i7,2.9,2813.75
+Asus,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,2.34,IPS Panel,141.21,256,Intel,Core i7,2.6,2325.0
+Dell,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.6,Standard,157.35,128,Intel,Core i5,2.5,1119.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 620,Windows,2.02,Standard,111.94,0,Intel,Core i5,2.5,990.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.29,Standard,100.45,0,Intel,Core i3,2.0,490.0
+Lenovo,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.44,IPS Panel,165.63,256,Intel,Core i5,2.5,960.0
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.37,IPS Panel,165.63,512,Intel,Core i7,2.7,1970.0
+Apple,Ultrabook,15.4,16,AMD Radeon Pro 560,Mac OS,1.83,IPS Panel Retina Display,220.53,512,Intel,Core i7,2.9,2858.0
+Asus,Notebook,14.0,4,AMD Radeon R2 Graphics,Windows,1.65,Standard,111.94,64,AMD,E-Series,1.5,277.99
+Asus,Notebook,14.0,8,Intel HD Graphics 620,Windows,2.0,Standard,157.35,256,Intel,Core i7,2.7,1094.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.41,Standard,165.63,256,Intel,Core i5,1.6,949.0
+Lenovo,Gaming,17.3,16,Nvidia GeForce GTX 980M,Windows,4.6,IPS Panel,127.34,128,Intel,Core i7,2.6,2289.99
+Lenovo,Notebook,15.6,6,AMD Radeon 530,Windows,2.2,Standard,141.21,256,AMD,A12-Series,3.6,549.0
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.31,Standard,141.21,256,Intel,Core i5,2.3,1165.0
+Dell,2 in 1 Convertible,15.6,12,Intel HD Graphics 620,Windows,2.19,IPS Panel,141.21,512,Intel,Core i7,2.7,1299.0
+HP,Notebook,15.6,4,AMD Radeon R4 Graphics,Windows,1.86,Standard,100.45,0,AMD,A6-Series,2.5,399.0
+Lenovo,2 in 1 Convertible,14.0,16,Intel HD Graphics 620,Windows,1.42,Standard,209.8,1024,Intel,Core i7,2.7,2824.0
+HP,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.26,IPS Panel,165.63,256,Intel,Core i5,1.6,1398.99
+Lenovo,Notebook,15.6,4,Intel HD Graphics 500,No OS,1.9,Standard,100.45,128,Intel,Celeron Dual Core,1.1,270.62
+Asus,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.5,IPS Panel,141.21,256,Intel,Core i7,2.8,1600.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.65,Standard,141.21,0,Intel,Core i5,2.5,949.0
+Toshiba,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.2,IPS Panel,141.21,256,Intel,Core i7,2.5,1399.0
+Dell,Notebook,15.6,16,AMD Radeon 530,Linux,2.02,Standard,141.21,256,Intel,Core i7,1.8,1049.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,2.9,Standard,127.34,256,Intel,Core i7,2.8,2122.0
+Lenovo,Notebook,15.6,8,Intel UHD Graphics 620,Windows,2.17,Standard,141.21,256,Intel,Core i7,1.8,898.9
+Asus,2 in 1 Convertible,11.6,4,Intel HD Graphics 500,Windows,1.5,Standard,135.09,0,Intel,Celeron Dual Core,1.1,375.0
+Dell,Ultrabook,12.5,4,Intel HD Graphics 520,Windows,1.5,Standard,125.37,128,Intel,Core i3,2.3,1166.97
+Acer,Notebook,15.6,4,Intel HD Graphics 620,Linux,2.1,Standard,100.45,0,Intel,Core i3,2.7,367.0
+Lenovo,Workstation,15.6,16,Nvidia Quadro M520M,Windows,2.5,IPS Panel,282.42,1024,Intel,Core i7,2.8,3299.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,No OS,1.9,Standard,100.45,0,Intel,Core i3,2.0,339.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.31,Standard,100.45,0,Intel,Core i3,2.3,705.15
+Asus,Gaming,15.6,24,Nvidia GeForce GTX 1080,Windows,2.24,Standard,141.21,512,Intel,Core i7,2.8,2968.0
+Asus,Gaming,17.3,16,AMD Radeon RX 580,Windows,3.25,IPS Panel,127.34,256,AMD,Ryzen,3.0,2199.0
+Apple,Ultrabook,13.3,8,Intel Iris Graphics 540,Mac OS,1.37,IPS Panel Retina Display,226.98,256,Intel,Core i5,2.0,1419.0
+Dell,Workstation,15.6,8,Nvidia Quadro M1200,Windows,1.78,Standard,141.21,256,Intel,Core i7,2.8,2408.0
+Asus,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.1,Standard,165.63,256,Intel,Core i5,1.6,1315.0
+HP,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.16,Standard,165.63,512,Intel,Core i7,2.5,1969.0
+HP,Notebook,17.3,6,AMD Radeon R5 520,Windows,2.71,IPS Panel,127.34,0,Intel,Core i5,2.5,699.0
+Dell,Notebook,15.6,8,AMD Radeon R5 M430,Windows,2.2,Standard,141.21,256,Intel,Core i7,2.7,745.0
+Acer,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.2,Standard,141.21,0,Intel,Core i7,2.7,639.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.3,Standard,141.21,256,Intel,Core i5,2.5,639.0
+Other,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.3,IPS Panel,157.35,0,Intel,Celeron Dual Core,1.1,260.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.87,Standard,157.35,0,Intel,Core i5,2.5,785.0
+Asus,Netbook,11.6,2,Intel HD Graphics 500,Windows,1.1,Standard,135.09,0,Intel,Celeron Dual Core,1.1,245.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 960,Windows,3.31,IPS Panel,141.21,128,Intel,Core i7,2.6,1196.0
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,1.84,Standard,141.21,256,Intel,Core i5,2.4,2103.34
+HP,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.43,Standard,157.35,256,Intel,Core i7,2.5,2229.0
+Apple,Ultrabook,12.0,8,Intel HD Graphics 515,Mac OS,0.92,IPS Panel Retina Display,226.42,0,Intel,Core M,1.1,1300.0
+Acer,2 in 1 Convertible,11.6,4,Intel HD Graphics 400,Chrome OS,1.25,IPS Panel,135.09,0,Intel,Celeron Dual Core,1.6,389.0
+Dell,Notebook,15.6,4,AMD Radeon R7 M440,Windows,2.3,Standard,100.45,128,Intel,Core i3,2.0,499.0
+Lenovo,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.2,Standard,141.21,256,Intel,Core i5,2.5,579.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.95,Standard,100.45,128,Intel,Core i5,2.5,810.0
+Acer,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.2,Standard,141.21,256,Intel,Core i7,2.7,832.0
+Apple,Ultrabook,13.3,8,Intel HD Graphics 6000,Mac OS,1.35,Standard,127.68,0,Intel,Core i5,1.6,1099.0
+Other,Ultrabook,12.3,16,Intel HD Graphics 615,Chrome OS,1.1,Standard,234.51,512,Intel,Core i7,1.3,2199.0
+Lenovo,Notebook,13.3,16,Intel HD Graphics 620,Windows,1.4,IPS Panel,165.63,512,Intel,Core i7,2.7,1499.0
+HP,Notebook,15.6,8,AMD FirePro W4190M,Windows,1.9,Standard,141.21,0,Intel,Core i7,2.7,1269.0
+Dell,Notebook,17.3,8,AMD Radeon 530,Windows,2.8,IPS Panel,127.34,128,Intel,Core i5,1.6,979.0
+HP,Workstation,17.3,16,Nvidia Quadro M2000M,Windows,3.0,IPS Panel,127.34,256,Intel,Xeon,2.9,4389.0
+Lenovo,Ultrabook,14.0,12,Intel HD Graphics 520,Windows,1.4,IPS Panel,209.8,256,Intel,Core i7,2.6,1858.0
+Dell,Notebook,15.6,4,Intel HD Graphics,Linux,2.2,Standard,100.45,0,Intel,Pentium Quad Core,1.6,393.49
+Lenovo,Notebook,14.0,8,Intel HD Graphics 520,Windows,1.9,IPS Panel,157.35,256,Intel,Core i5,2.3,1072.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.2,Standard,100.45,0,Intel,Core i3,2.0,545.67
+Dell,Notebook,15.6,16,Nvidia GeForce GTX 1050,Windows,2.06,Standard,282.42,1024,Intel,Core i7,2.8,2399.0
+Toshiba,Ultrabook,13.3,16,Intel HD Graphics 620,Windows,1.05,Standard,165.63,512,Intel,Core i7,2.7,2226.0
+Dell,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.29,Standard,165.63,256,Intel,Core i7,2.7,1458.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,2.7,Standard,127.34,256,Intel,Core i7,2.8,1492.8
+HP,Workstation,15.6,8,Nvidia Quadro M2200,Windows,3.14,Standard,141.21,256,Intel,Core i7,2.8,2064.9
+Asus,Notebook,15.6,4,AMD Radeon R5 M420,Windows,2.03,Standard,100.45,0,AMD,A9-Series,3.0,403.0
+Dell,2 in 1 Convertible,13.3,8,Intel HD Graphics 615,Windows,1.24,Standard,165.63,256,Intel,Core i5,1.2,1899.0
+Toshiba,Ultrabook,14.0,4,Intel HD Graphics 620,Windows,1.25,Standard,111.94,128,Intel,Core i5,2.5,1090.0
+HP,Ultrabook,13.3,16,Intel HD Graphics 620,Windows,1.3,IPS Panel,331.26,512,Intel,Core i7,2.7,2049.0
+Other,Ultrabook,13.3,8,Nvidia GeForce GTX 940MX,Windows,1.28,IPS Panel,165.63,256,Intel,Core i5,2.3,935.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.04,Standard,141.21,256,Intel,Core i7,2.7,1018.99
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,1.9,Standard,100.45,128,Intel,Core i5,2.5,498.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Windows,2.62,Standard,282.42,128,Intel,Core i7,2.8,1498.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1060,No OS,2.4,IPS Panel,141.21,256,Intel,Core i7,2.8,1149.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.06,Standard,100.45,0,Intel,Core i3,2.3,481.98
+HP,Ultrabook,13.3,8,Nvidia GeForce MX150,Windows,1.38,IPS Panel,165.63,256,Intel,Core i7,2.7,1119.0
+HP,Gaming,17.3,16,Nvidia GeForce GTX 1050,Windows,3.78,IPS Panel,127.34,256,Intel,Core i7,2.8,1498.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1060,No OS,2.4,IPS Panel,141.21,128,Intel,Core i5,2.5,989.0
+HP,Notebook,13.3,8,Intel UHD Graphics 620,Windows,1.49,Standard,165.63,512,Intel,Core i7,1.8,1103.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.62,Standard,141.21,0,Intel,Core i7,2.8,899.0
+Acer,Notebook,15.6,8,Nvidia GeForce GTX 1050,Linux,2.5,Standard,141.21,256,Intel,Core i7,2.8,879.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.21,IPS Panel,331.26,256,Intel,Core i7,1.8,1949.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.91,Standard,100.45,256,Intel,Core i5,2.5,579.0
+Asus,Ultrabook,14.0,16,Nvidia GeForce MX150,Windows,1.3,Standard,157.35,512,Intel,Core i7,1.8,1495.0
+HP,Notebook,13.3,4,Intel HD Graphics 620,Windows,1.49,Standard,117.83,0,Intel,Core i3,2.4,800.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.04,Standard,141.21,256,Intel,Core i7,2.7,1070.0
+HP,Workstation,15.6,8,Intel HD Graphics 620,Windows,2.31,IPS Panel,141.21,512,Intel,Core i7,2.9,1534.0
+Lenovo,2 in 1 Convertible,13.9,8,Intel UHD Graphics 620,Windows,1.37,IPS Panel,158.48,512,Intel,Core i7,1.8,1849.0
+Dell,Gaming,15.6,8,Nvidia GeForce GTX 1050 Ti,Linux,2.62,Standard,141.21,0,Intel,Core i7,2.8,929.0
+Dell,Ultrabook,13.3,8,Intel Iris Plus Graphics 640,Windows,1.23,Standard,165.63,256,Intel,Core i7,2.4,1379.0
+HP,2 in 1 Convertible,13.3,4,Intel HD Graphics 620,Windows,1.28,Standard,165.63,256,Intel,Core i5,2.5,1700.0
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,2.2,Standard,141.21,0,Intel,Core i7,2.6,1169.0
+Other,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.2,Standard,100.45,256,Intel,Core i5,2.5,799.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.4,IPS Panel,141.21,256,Intel,Core i7,2.8,1129.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Windows,2.36,Standard,141.21,0,Intel,Core i5,2.5,638.8
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.1,IPS Panel,141.21,0,Intel,Core i5,1.6,722.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1050,Windows,2.56,Standard,141.21,512,Intel,Core i7,2.8,1249.26
+Other,Ultrabook,12.3,8,Intel HD Graphics 615,Chrome OS,1.1,Standard,234.51,128,Intel,Core i5,1.2,1275.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050M,Windows,2.5,IPS Panel,141.21,128,Intel,Core i7,2.8,1109.0
+Acer,Notebook,15.6,4,Intel HD Graphics 400,Linux,2.4,Standard,100.45,0,Intel,Celeron Dual Core,1.6,289.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce 920MX,No OS,2.2,Standard,100.45,0,Intel,Core i7,2.5,629.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.2,Standard,141.21,128,Intel,Core i3,2.0,499.0
+Dell,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.18,Standard,100.45,0,Intel,Core i5,2.5,708.06
+Lenovo,Ultrabook,12.5,16,Intel HD Graphics 620,Windows,1.36,IPS Panel,176.23,512,Intel,Core i7,2.7,1798.0
+Lenovo,2 in 1 Convertible,14.0,8,Intel HD Graphics 520,Windows,1.27,IPS Panel,209.8,256,Intel,Core i7,2.5,2339.0
+HP,Ultrabook,12.5,8,Intel HD Graphics 515,Windows,0.97,IPS Panel,352.47,512,Intel,Core M,1.2,2014.0
+Lenovo,Notebook,15.6,8,AMD Radeon RX 550,Windows,2.1,IPS Panel,141.21,256,Intel,Core i5,1.6,1144.5
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 520,Windows,1.7,IPS Panel,157.35,256,Intel,Core i7,2.6,1488.99
+Lenovo,Notebook,15.6,4,AMD Radeon R5 M430,No OS,1.9,Standard,100.45,0,Intel,Core i3,2.0,368.0
+Dell,Gaming,17.3,32,Nvidia GeForce GTX 1070,Windows,4.42,IPS Panel,254.67,512,Intel,Core i7,2.8,3147.37
+Lenovo,Notebook,14.0,8,AMD Radeon R7 M460,No OS,1.5,IPS Panel,157.35,512,Intel,Core i7,2.7,799.0
+Dell,Notebook,15.6,16,Nvidia GeForce GTX 1050,Windows,2.06,Standard,282.42,512,Intel,Core i7,2.8,2397.0
+Lenovo,2 in 1 Convertible,15.6,8,Intel HD Graphics 630,Windows,2.0,IPS Panel,141.21,256,Intel,Core i7,2.8,1299.0
+Toshiba,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,0,Intel,Core i5,2.3,602.0
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,1.84,Standard,141.21,256,Intel,Core i5,2.4,1900.0
+Toshiba,Notebook,13.3,4,Intel HD Graphics 520,Windows,1.2,Standard,165.63,128,Intel,Core i5,2.3,1195.0
+HP,Notebook,13.3,8,Intel UHD Graphics 620,Windows,1.49,Standard,165.63,512,Intel,Core i5,1.6,959.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.2,IPS Panel,141.21,0,Intel,Core i7,2.5,669.0
+Lenovo,Notebook,17.3,8,Nvidia GeForce MX150,No OS,2.8,Standard,127.34,0,Intel,Core i7,1.8,849.0
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 1050,Windows,2.0,Standard,141.21,256,Intel,Core i7,2.8,1829.0
+Lenovo,Ultrabook,14.0,12,Intel HD Graphics 520,Windows,1.4,Standard,157.35,512,Intel,Core i7,2.6,2299.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 500,Windows,2.2,Standard,100.45,0,Intel,Celeron Dual Core,1.1,306.0
+Lenovo,Notebook,15.6,8,Nvidia GeForce GTX 940MX,No OS,2.2,Standard,141.21,256,Intel,Core i5,2.5,629.0
+Acer,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.23,Standard,141.21,0,Intel,Core i7,2.7,742.0
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,3.21,Standard,141.21,256,Intel,Core i7,2.8,2774.63
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.04,Standard,100.45,0,Intel,Core i5,2.5,559.0
+Asus,Notebook,15.6,16,Nvidia GeForce GTX 1060,Windows,2.2,Standard,141.21,128,Intel,Core i7,2.8,1749.0
+MSI,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.43,Standard,127.34,256,Intel,Core i7,2.8,2048.9
+Asus,Ultrabook,13.3,16,Intel HD Graphics 620,Windows,1.1,Standard,165.63,512,Intel,Core i7,2.7,1748.9
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.3,IPS Panel,141.21,256,Intel,Core i7,2.7,787.0
+Dell,2 in 1 Convertible,13.3,16,Intel UHD Graphics 620,Windows,1.62,Standard,165.63,512,Intel,Core i7,1.8,1279.0
+HP,Notebook,17.0,8,AMD Radeon R5,Windows,2.6,Standard,107.99,0,AMD,A9-Series,3.0,520.9
+Apple,Ultrabook,13.3,8,Intel HD Graphics 6000,Mac OS,1.34,Standard,127.68,0,Intel,Core i5,1.8,898.94
+Lenovo,2 in 1 Convertible,13.3,8,Intel HD Graphics 620,Windows,1.37,IPS Panel,165.63,256,Intel,Core i5,2.5,1399.0
+Toshiba,Ultrabook,13.3,16,Intel HD Graphics 520,Windows,1.36,Standard,165.63,512,Intel,Core i7,2.5,1877.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 960M,Windows,2.6,IPS Panel,141.21,128,Intel,Core i7,2.6,1272.0
+Dell,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.36,Standard,157.35,256,Intel,Core i7,2.8,1775.0
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,2.18,Standard,141.21,256,Intel,Core i7,2.7,1009.9
+Dell,Notebook,15.6,4,AMD Radeon 530,Windows,2.2,Standard,141.21,256,Intel,Core i5,1.6,749.0
+HP,Notebook,15.6,6,AMD Radeon R5 M430,Windows,2.04,Standard,141.21,0,Intel,Core i3,2.0,539.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,No OS,2.1,Standard,100.45,0,Intel,Core i5,2.3,476.99
+Lenovo,Notebook,13.3,4,Intel HD Graphics 510,Chrome OS,1.45,Standard,117.83,0,Intel,Celeron Dual Core,1.6,459.9
+Toshiba,Notebook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,165.63,256,Intel,Core i5,2.3,1213.0
+HP,Notebook,17.3,6,AMD Radeon 530,Windows,2.71,IPS Panel,127.34,0,AMD,A10-Series,2.5,655.01
+Dell,Gaming,17.3,32,Nvidia GeForce GTX 1070,Windows,4.42,Standard,127.34,256,Intel,Core i7,2.6,2800.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,No OS,2.2,Standard,141.21,128,Intel,Core i5,2.5,468.0
+Lenovo,Notebook,15.6,4,Intel UHD Graphics 620,Windows,1.8,Standard,141.21,256,Intel,Core i5,1.6,829.0
+Dell,2 in 1 Convertible,17.3,16,Nvidia GeForce GTX 940MX,Windows,2.77,Standard,127.34,512,Intel,Core i7,2.7,1799.0
+Asus,Notebook,14.0,4,Intel HD Graphics 620,Windows,2.0,Standard,157.35,256,Intel,Core i3,2.4,769.0
+Lenovo,2 in 1 Convertible,14.0,8,Intel HD Graphics 620,Windows,1.42,IPS Panel,209.8,256,Intel,Core i5,2.5,2330.0
+Lenovo,Notebook,14.0,4,Intel HD Graphics,Windows,1.43,Standard,111.94,0,Intel,Celeron Dual Core,1.6,274.0
+HP,Notebook,14.0,4,Intel HD Graphics 620,Windows,1.48,Standard,157.35,256,Intel,Core i5,2.5,1590.0
+Other,Notebook,13.3,4,Intel HD Graphics,Windows,1.35,IPS Panel,165.63,0,Intel,Atom,1.44,255.0
+Asus,Notebook,15.6,4,Intel HD Graphics 500,Windows,1.86,Standard,100.45,128,Intel,Celeron Dual Core,1.1,419.0
+Lenovo,Gaming,17.3,32,Nvidia GeForce GTX 1070,Windows,4.6,IPS Panel,127.34,256,Intel,Core i7,2.7,2663.0
+Asus,Gaming,15.6,16,Nvidia GeForce GTX 960M,Windows,2.59,IPS Panel,141.21,128,Intel,Core i7,2.6,1339.0
+Dell,Notebook,17.3,8,AMD Radeon 530,Linux,2.8,IPS Panel,127.34,128,Intel,Core i5,1.6,889.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,2.94,Standard,141.21,256,Intel,Core i7,2.6,1819.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.2,Standard,276.05,256,Intel,Core i7,1.8,1399.0
+Dell,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.6,Standard,111.94,256,Intel,Core i5,2.5,1126.71
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 970M,Windows,1.91,Standard,141.21,128,Intel,Core i7,2.6,2153.37
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.3,Standard,100.45,128,Intel,Core i3,2.0,565.0
+Acer,2 in 1 Convertible,13.3,8,Intel UHD Graphics 620,Windows,1.5,IPS Panel,165.63,256,Intel,Core i5,1.6,847.0
+Dell,2 in 1 Convertible,15.6,4,Intel HD Graphics 520,Windows,2.08,IPS Panel,141.21,0,Intel,Core i3,2.3,795.99
+Lenovo,Notebook,17.3,8,Nvidia Quadro M620M,Windows,3.4,IPS Panel,127.34,256,Intel,Core i7,2.8,2999.0
+Toshiba,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.25,IPS Panel,157.35,256,Intel,Core i5,2.5,1535.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,No OS,2.5,IPS Panel,141.21,0,Intel,Core i5,2.5,1017.0
+HP,2 in 1 Convertible,13.3,16,Intel HD Graphics 620,Windows,1.42,Standard,276.05,256,Intel,Core i7,2.7,1399.0
+Dell,Notebook,15.6,8,Intel HD Graphics 520,Windows,2.09,Standard,141.21,256,Intel,Core i5,2.4,1062.95
+Dell,Notebook,15.6,6,Intel HD Graphics 620,Windows,2.3,Standard,100.45,0,Intel,Core i3,2.4,439.0
+Acer,Notebook,15.6,12,Nvidia GeForce MX 130,Windows,2.2,IPS Panel,100.45,0,Intel,Core i5,1.6,693.99
+Apple,Ultrabook,12.0,8,Intel HD Graphics 5300,Mac OS,0.92,IPS Panel Retina Display,226.42,0,Intel,Core M,1.2,1165.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.38,Standard,100.45,0,Intel,Core i5,2.5,1055.0
+Lenovo,Notebook,14.0,8,Intel HD Graphics 620,Windows,1.9,IPS Panel,157.35,256,Intel,Core i5,2.5,938.0
+Asus,Notebook,17.3,4,Nvidia GeForce 920MX,Windows,2.8,Standard,90.58,0,Intel,Pentium Quad Core,1.1,470.34
+HP,Notebook,14.0,2,Intel HD Graphics 400,Windows,1.44,Standard,111.94,0,Intel,Celeron Dual Core,1.6,249.0
+Dell,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.29,Standard,276.05,256,Intel,Core i5,2.5,1624.0
+Lenovo,Ultrabook,14.0,16,Intel HD Graphics 620,Windows,1.14,IPS Panel,157.35,512,Intel,Core i7,2.7,2450.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.18,Standard,100.45,0,Intel,Core i3,2.0,443.9
+Toshiba,Notebook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,165.63,256,Intel,Core i5,2.4,1535.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 620,No OS,1.9,Standard,100.45,0,Intel,Core i5,2.5,489.9
+HP,Notebook,17.3,4,AMD Radeon R5 520,Windows,2.5,IPS Panel,127.34,256,Intel,Core i3,2.0,699.0
+Asus,Notebook,15.6,6,Nvidia GeForce 920M,Windows,2.0,Standard,141.21,256,Intel,Core i3,2.4,577.0
+Dell,Netbook,11.6,4,Intel HD Graphics 505,Windows,1.63,Standard,135.09,128,Intel,Pentium Quad Core,1.1,744.0
+Toshiba,Ultrabook,13.3,16,Intel HD Graphics 520,Windows,1.2,Standard,165.63,512,Intel,Core i7,2.5,1747.0
+Lenovo,2 in 1 Convertible,13.9,8,Intel UHD Graphics 620,Windows,1.4,IPS Panel,158.48,256,Intel,Core i5,1.6,1599.0
+HP,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.31,Standard,100.45,0,Intel,Core i5,2.3,1199.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,No OS,1.96,Standard,100.45,0,Intel,Core i5,2.5,499.0
+HP,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.95,Standard,111.94,0,Intel,Core i5,2.3,1149.0
+Asus,Notebook,15.6,8,Intel HD Graphics 505,Windows,2.0,Standard,141.21,128,Intel,Pentium Dual Core,1.1,581.9
+Dell,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,2.65,IPS Panel,282.42,512,Intel,Core i7,2.8,1845.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.05,Standard,100.45,0,Intel,Core i7,2.7,598.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 940MX,Windows,1.91,IPS Panel,141.21,0,Intel,Core i7,2.7,979.0
+Asus,Notebook,15.6,4,Intel HD Graphics 620,Linux,2.0,Standard,141.21,0,Intel,Core i3,2.0,389.0
+Lenovo,Notebook,17.3,16,Nvidia Quadro 3000M,Windows,2.4,IPS Panel,254.67,512,Intel,Core i7,2.7,2968.0
+Asus,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.37,Standard,100.45,0,Intel,Core i3,2.4,398.99
+Asus,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.5,Standard,111.94,0,Intel,Celeron Dual Core,1.1,286.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.5,IPS Panel,141.21,256,Intel,Core i7,2.8,1179.0
+Dell,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.14,Standard,100.45,0,Intel,Core i5,2.5,539.95
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1050 Ti,Windows,3.0,Standard,127.34,256,Intel,Core i7,2.8,1591.0
+Dell,2 in 1 Convertible,11.6,4,Intel HD Graphics 615,Windows,1.39,Standard,135.09,128,Intel,Core M,1.0,603.0
+HP,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.62,IPS Panel,141.21,0,Intel,Core i7,2.8,899.0
+HP,Workstation,15.6,8,AMD FirePro W4190M,Windows,1.9,Standard,141.21,256,Intel,Core i7,2.5,1495.0
+Other,Gaming,14.0,16,Nvidia GeForce GTX 1060,Windows,1.95,Standard,157.35,256,Intel,Core i7,2.8,2599.0
+Lenovo,Notebook,15.6,8,AMD Radeon R5 M330,No OS,2.32,Standard,141.21,0,Intel,Core i5,2.3,599.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,3.2,IPS Panel,141.21,256,Intel,Core i7,2.8,1399.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.86,Standard,141.21,256,Intel,Core i5,2.5,690.0
+Apple,Ultrabook,12.0,8,Intel HD Graphics 615,Mac OS,0.92,IPS Panel Retina Display,226.42,256,Intel,Core M,1.2,1262.4
+Lenovo,2 in 1 Convertible,14.0,8,Intel HD Graphics 520,Windows,1.36,IPS Panel,209.8,256,Intel,Core i5,2.3,1637.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1060,Windows,1.8,Standard,141.21,256,Intel,Core i7,2.6,1929.0
+Asus,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,1.99,Standard,141.21,128,Intel,Core i7,2.8,1350.0
+Acer,Notebook,15.6,8,Nvidia GeForce GTX 1050,Linux,2.4,Standard,141.21,0,Intel,Core i7,2.8,846.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,No OS,2.4,IPS Panel,141.21,256,Intel,Core i5,2.5,779.0
+Asus,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.2,IPS Panel,276.05,256,Intel,Core i5,2.5,1129.0
+Lenovo,Notebook,17.3,8,Nvidia GeForce GTX 940MX,No OS,2.8,Standard,106.11,0,Intel,Core i5,2.5,589.0
+Other,Notebook,14.0,4,Intel HD Graphics 500,Windows,1.22,Standard,157.35,0,Intel,Celeron Dual Core,1.1,202.9
+Lenovo,Notebook,15.6,4,Nvidia GeForce GTX 950M,Windows,2.3,IPS Panel,141.21,0,Intel,Core i5,2.3,977.0
+Dell,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.18,Standard,141.21,128,Intel,Core i5,2.5,912.5
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.84,Standard,141.21,256,Intel,Core i5,2.5,1144.0
+HP,Notebook,17.3,8,Nvidia GeForce GTX 930MX,Windows,2.63,Standard,127.34,256,Intel,Core i7,2.7,1200.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1060,Windows,3.2,IPS Panel,141.21,0,Intel,Core i7,2.8,1299.0
+HP,Notebook,15.6,4,Intel HD Graphics 620,Windows,2.04,Standard,100.45,256,Intel,Core i3,2.4,769.99
+Dell,2 in 1 Convertible,11.6,4,Intel HD Graphics 405,Windows,1.47,Standard,135.09,0,Intel,Pentium Quad Core,1.6,479.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.32,Standard,157.35,256,Intel,Core i7,2.7,1859.0
+Lenovo,Notebook,15.6,8,Intel UHD Graphics 620,Windows,2.05,Standard,141.21,256,Intel,Core i7,1.8,880.0
+Asus,Notebook,13.3,8,Intel HD Graphics 620,Windows,1.4,Standard,276.05,256,Intel,Core i5,2.5,1150.0
+Lenovo,Notebook,15.6,4,Intel HD Graphics 520,Windows,2.1,Standard,100.45,128,Intel,Core i5,2.3,493.0
+Acer,Notebook,17.3,4,Nvidia GeForce MX150,Windows,3.0,IPS Panel,127.34,256,Intel,Core i5,1.6,805.0
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,2.1,Standard,141.21,0,AMD,A9-Series,3.0,489.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1050,Windows,2.9,Standard,127.34,256,Intel,Core i7,2.8,1529.0
+Lenovo,Notebook,15.6,8,AMD Radeon R7 Graphics,Windows,2.2,Standard,100.45,0,AMD,A12-Series,3.6,429.0
+HP,Gaming,17.3,8,Nvidia GeForce GTX 1060,Windows,3.35,IPS Panel,127.34,128,Intel,Core i5,2.3,1129.0
+Dell,Ultrabook,13.3,8,Intel UHD Graphics 620,Windows,1.21,IPS Panel,331.26,128,Intel,Core i5,1.6,1599.0
+Toshiba,Ultrabook,13.3,8,Intel HD Graphics 520,Windows,1.2,Standard,165.63,256,Intel,Core i5,2.3,1590.0
+HP,Ultrabook,12.5,4,Intel HD Graphics 620,Windows,1.26,Standard,125.37,256,Intel,Core i5,2.5,1559.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1050 Ti,Windows,2.4,Standard,141.21,512,Intel,Core i7,2.8,1199.0
+Lenovo,Gaming,15.6,16,Nvidia GeForce GTX 1060,No OS,2.4,Standard,141.21,512,Intel,Core i7,2.8,1398.0
+Apple,Ultrabook,13.3,8,Intel HD Graphics 6000,Mac OS,1.35,Standard,127.68,0,Intel,Core i5,1.6,998.0
+Asus,2 in 1 Convertible,15.6,12,Nvidia GeForce GTX 940MX,Windows,2.3,Standard,141.21,0,Intel,Core i7,2.7,839.0
+HP,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.34,IPS Panel,165.63,512,Intel,Core i7,2.7,1323.0
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 970M,Windows,4.0,IPS Panel,127.34,128,Intel,Core i7,2.6,1900.0
+Acer,Notebook,15.6,8,Nvidia GeForce MX150,Windows,2.2,Standard,141.21,0,Intel,Core i7,1.8,689.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.04,Standard,141.21,0,Intel,Core i7,2.7,900.0
+Asus,Notebook,15.6,8,Nvidia GeForce GTX 1050,Windows,2.5,Standard,141.21,128,Intel,Core i5,2.5,839.0
+Lenovo,Notebook,15.6,16,Nvidia Quadro M2000M,Windows,2.5,Standard,282.42,512,Intel,Core i7,2.7,2370.0
+Asus,Notebook,17.3,8,Nvidia GeForce MX150,Windows,2.1,Standard,127.34,128,Intel,Core i7,1.8,1145.0
+Dell,Notebook,15.6,4,AMD Radeon R5 M430,Windows,2.2,Standard,141.21,256,Intel,Core i3,2.0,498.9
+Dell,Notebook,15.6,8,AMD Radeon 530,Windows,2.33,Standard,141.21,128,Intel,Core i5,1.6,844.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.84,Standard,141.21,256,Intel,Core i7,2.7,1219.0
+Dell,Workstation,15.6,8,AMD FirePro W5130M,Windows,2.23,Standard,141.21,0,Intel,Core i5,2.6,1369.0
+Acer,Notebook,15.6,4,Intel HD Graphics 505,Windows,2.1,Standard,100.45,0,Intel,Pentium Quad Core,1.1,363.51
+Asus,Gaming,17.3,16,Nvidia GeForce GTX 1060,Windows,2.73,Standard,127.34,512,Intel,Core i7,2.6,1799.0
+Asus,Netbook,11.6,2,Intel HD Graphics 400,Windows,0.98,Standard,135.09,0,Intel,Atom,1.44,191.9
+Acer,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.8,IPS Panel,157.35,256,Intel,Core i5,2.5,919.0
+Dell,Notebook,15.6,8,Nvidia GeForce GTX 960M,Windows,2.04,IPS Panel,282.42,256,Intel,Core i5,2.3,2250.68
+Lenovo,Ultrabook,14.0,16,Intel HD Graphics 520,Windows,1.1,IPS Panel,209.8,512,Intel,Core i7,2.6,2099.0
+HP,Ultrabook,13.3,16,Intel HD Graphics 515,Windows,1.16,IPS Panel,276.05,512,Intel,Core M,1.2,1965.0
+Acer,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.4,Standard,100.45,0,Intel,Core i3,2.0,361.8
+HP,Notebook,15.6,4,AMD Radeon R5 520,Windows,1.86,Standard,100.45,0,Intel,Core i5,2.5,612.61
+HP,2 in 1 Convertible,11.6,4,Intel HD Graphics 505,Windows,1.45,Standard,135.09,256,Intel,Pentium Quad Core,1.1,775.0
+Dell,Notebook,17.3,8,AMD Radeon 530,Windows,2.8,Standard,127.34,128,Intel,Core i7,1.8,1085.0
+HP,Notebook,15.6,8,Nvidia GeForce GTX 930MX,Windows,2.04,IPS Panel,141.21,128,Intel,Core i5,2.7,979.0
+HP,Notebook,15.6,4,AMD Radeon 530,Windows,2.1,IPS Panel,141.21,0,Intel,Core i7,2.7,689.0
+Dell,Ultrabook,13.3,8,Intel HD Graphics 620,Windows,1.29,IPS Panel,165.63,128,Intel,Core i5,2.5,899.0
+Lenovo,2 in 1 Convertible,10.1,4,Intel HD Graphics 400,Windows,0.69,IPS Panel,224.17,0,Intel,Atom,1.44,646.27
+Asus,Notebook,15.6,12,Intel HD Graphics 530,Windows,2.06,IPS Panel,282.42,128,Intel,Core i7,2.6,1299.0
+Asus,Notebook,15.6,4,Intel HD Graphics 505,Windows,2.0,Standard,100.45,0,Intel,Pentium Quad Core,1.1,449.0
+HP,Notebook,15.6,8,Intel HD Graphics 520,Windows,1.86,Standard,141.21,256,Intel,Core i3,2.0,539.0
+Asus,Notebook,15.6,4,AMD Radeon R5 M420,Windows,1.68,Standard,100.45,0,AMD,A9-Series,3.0,469.0
+Lenovo,Gaming,15.6,8,Nvidia GeForce GTX 1050,Windows,2.5,IPS Panel,141.21,128,Intel,Core i5,2.5,999.0
+HP,Notebook,17.3,8,Intel HD Graphics 520,Windows,2.5,Standard,106.11,256,Intel,Core i3,2.0,639.9
+HP,Notebook,15.6,6,Nvidia GeForce GTX 960M,Windows,2.18,IPS Panel,141.21,0,Intel,Core i7,2.6,799.0
+Dell,Notebook,17.3,8,AMD Radeon 530,Linux,2.8,Standard,127.34,128,Intel,Core i7,1.8,1099.0
+Dell,Gaming,17.3,16,Nvidia GeForce GTX 1070,Windows,4.36,IPS Panel,254.67,512,Intel,Core i7,2.8,3154.0
+Acer,Netbook,11.6,2,Intel HD Graphics,Chrome OS,1.3,Standard,135.09,32,Intel,Celeron Dual Core,1.5,174.0
+Lenovo,Ultrabook,14.0,8,Intel HD Graphics 620,Windows,1.13,IPS Panel,209.8,512,Intel,Core i7,2.7,2282.0
+HP,Netbook,12.5,8,Intel HD Graphics 620,Windows,1.26,Standard,125.37,256,Intel,Core i5,2.6,1389.0
+Lenovo,2 in 1 Convertible,13.9,16,Intel UHD Graphics 620,Windows,1.4,IPS Panel,316.97,512,Intel,Core i7,1.8,2099.0
+Acer,Notebook,15.6,4,Intel HD Graphics 505,Linux,2.1,Standard,100.45,0,Intel,Pentium Quad Core,1.1,298.0
+Dell,Notebook,15.6,8,AMD Radeon R7 M445,Windows,2.36,Standard,100.45,0,Intel,Core i5,2.5,638.99
+Lenovo,Notebook,15.6,4,AMD Radeon R5 M430,No OS,2.2,Standard,141.21,0,Intel,Core i3,2.0,479.0
+Dell,Notebook,15.6,4,Intel HD Graphics 520,Linux,2.09,Standard,100.45,0,Intel,Core i5,2.3,523.63
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,1.96,Standard,141.21,256,Intel,Core i5,2.5,598.99
+MSI,Gaming,17.3,8,Nvidia GeForce GTX 1050 Ti,Windows,2.7,Standard,127.34,256,Intel,Core i7,2.8,1199.0
+MSI,Gaming,15.6,8,Nvidia GeForce GTX 960M,Windows,2.3,Standard,141.21,128,Intel,Core i7,2.6,1169.0
+Acer,Notebook,15.6,4,Nvidia GeForce GTX 940MX,Windows,2.2,Standard,100.45,0,Intel,Core i3,2.0,469.0
+MSI,Gaming,15.6,16,Nvidia GeForce GTX 1070,Windows,1.8,Standard,141.21,256,Intel,Core i7,2.8,2241.5
+HP,Notebook,14.0,4,Intel HD Graphics 520,Windows,1.54,Standard,157.35,0,Intel,Core i5,2.3,1000.0
+Acer,Notebook,15.6,8,Nvidia GeForce GTX 950M,Windows,2.4,Standard,141.21,256,Intel,Core i5,2.5,799.0
+HP,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.04,Standard,100.45,0,Intel,Core i7,2.7,629.0
+Lenovo,Notebook,15.6,8,Intel HD Graphics 620,Windows,2.3,IPS Panel,141.21,0,Intel,Core i5,2.5,850.66
+Lenovo,2 in 1 Convertible,10.1,4,Intel HD Graphics 400,Windows,0.69,IPS Panel,224.17,0,Intel,Atom,1.44,479.0
