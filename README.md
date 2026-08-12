@@ -8,7 +8,7 @@ https://your-streamlit-link.streamlit.app
 
 ## 🔗 Repository
 
-https://github.com/username/Laptop_Price_Predictor
+https://github.com/loeqyana/Price-Prediction.git
 
 ## 📌 Features
 
@@ -41,7 +41,7 @@ https://github.com/username/Laptop_Price_Predictor
 Clone the repository
 
 ```bash
-git clone https://github.com/username/Laptop_Price_Predictor.git
+git clone https://github.com/loeqyana/Price-Prediction.git
 ```
 
 Install dependencies
@@ -66,7 +66,7 @@ Target:
 
 ## 📷 Application Preview
 
-![Prediction]<img width="1921" height="2740" alt="screencapture-localhost-8501-2026-08-07-17_38_54" src="https://github.com/user-attachments/assets/bda87c07-8657-4c1b-a1c9-75047f09347c" />
+Prediction Page<img width="1921" height="2740" alt="screencapture-localhost-8501-2026-08-07-17_38_54" src="https://github.com/user-attachments/assets/bda87c07-8657-4c1b-a1c9-75047f09347c" />
 
 
 ## 👩‍💻 Author
