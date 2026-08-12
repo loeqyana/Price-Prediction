@@ -1,4 +1,4 @@
 import streamlit as st
+import pandas as pd
 
-st.title("Hello World")
-st.write("Deploy berhasil")
+st.write("Pandas OK")
