@@ -4,7 +4,12 @@ import pandas as pd
 
 # 1. Memuat model Pipeline yang sudah disimpan
 # Model ini mencakup preprocessor (scaling & encoding) dan XGB Regression
-st.write("Joblib imported")
+st.write("Python:", __import__("sys").version)
+st.write("Sklearn:", sklearn.__version__)
+
+from sklearn.compose import _column_transformer
+st.write("Has _RemainderColsList:",
+         hasattr(_column_transformer, "_RemainderColsList"))
 
 model = joblib.load("XGB_deploy.pkl")
 
