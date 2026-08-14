@@ -4,11 +4,8 @@ import pandas as pd
 
 # 1. Memuat model Pipeline yang sudah disimpan
 # Model ini mencakup preprocessor (scaling & encoding) dan XGB Regression
-st.write("Import berhasil")
 
-# model = joblib.load("XGB_submit.pkl")
-
-st.write("Aplikasi berhasil dijalankan")
+model = joblib.load("XGB_submit.pkl")
 
 # 3. session state
 if "job" not in st.session_state:
