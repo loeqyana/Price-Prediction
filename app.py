@@ -6,7 +6,7 @@ import pandas as pd
 # Model ini mencakup preprocessor (scaling & encoding) dan XGB Regression
 st.write("Joblib imported")
 
-model = joblib.load("XGB_submit.pkl")
+model = joblib.load("XGB_deploy.pkl")
 
 st.write(type(model))
 st.write(model)
